@@ -1,0 +1,228 @@
+{
+  "Colors": {
+    "Absolute": {
+      "light": {
+        "value": "{Colors.Black.gray-100}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{Colors.Black.black}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "background": {
+        "value": "{Colors.Brand.l88}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{Colors.Brand.0}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Colors.Brand.d56}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "background": {
+        "value": "{Colors.Green.l88}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        }
+      },
+      "primary": {
+        "value": "{Colors.Green.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        }
+      },
+      "text": {
+        "value": "{Colors.Green.d56}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        },
+        "description": "Naming Depends on HSl ( L ) nummber\n"
+      }
+    },
+    "info": {
+      "background": {
+        "value": "{Colors.Blue.l88}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        }
+      },
+      "primary": {
+        "value": "{Colors.Blue.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        }
+      },
+      "text": {
+        "value": "{Colors.Blue.d56}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      }
+    },
+    "Neutral": {
+      "background": {
+        "value": "{Colors.Black.gray-92}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        }
+      },
+      "primary": {
+        "value": "{Colors.Black.gray-44}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        }
+      },
+      "text": {
+        "value": "{Colors.Black.gray-12}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{Colors.Brand.0}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "Border Width": {
+    "small": {
+      "value": "{Border Width.border-w-0,5}",
+      "type": "borderWidth"
+    },
+    "medium": {
+      "value": "{Border Width.border-w-1}",
+      "type": "borderWidth"
+    },
+    "large": {
+      "value": "{Border Width.border-w-1,5}",
+      "type": "borderWidth"
+    },
+    "xlarge": {
+      "value": "{Border Width.border-w-2}",
+      "type": "borderWidth"
+    }
+  },
+  "boxshadows": {
+    "none": {
+      "value": "{shadow-none}",
+      "type": "boxShadow"
+    },
+    "inner": {
+      "value": "{shadow-inner}",
+      "type": "boxShadow"
+    },
+    "small": {
+      "value": "{shadow-sm}",
+      "type": "boxShadow"
+    },
+    "medium": {
+      "value": "{shadow-md}",
+      "type": "boxShadow"
+    },
+    "large": {
+      "value": "{shadow-lg}",
+      "type": "boxShadow"
+    }
+  },
+  "Border Radius": {
+    "none": {
+      "value": "{Border Radius.rounded-0}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{Border Radius.rounded-4}",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "{Border Radius.rounded-8}",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "{Border Radius.rounded-16}",
+      "type": "borderRadius"
+    },
+    "xlarge": {
+      "value": "{Border Radius.rounded-24}",
+      "type": "borderRadius"
+    },
+    "full": {
+      "value": "{Border Radius.rounded-9999}",
+      "type": "borderRadius"
+    }
+  }
+}

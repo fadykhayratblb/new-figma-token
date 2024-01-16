@@ -1,0 +1,77 @@
+{
+  "Colors": {
+    "Brand": {
+      "0": {
+        "value": "#ff7630",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      },
+      "l88": {
+        "value": "{Colors.Brand.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "l72": {
+        "value": "{Colors.Brand.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "l24": {
+        "value": "{Colors.Brand.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      },
+      "d40": {
+        "value": "{Colors.Brand.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "d56": {
+        "value": "{Colors.Brand.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl"
+            }
+          }
+        }
+      }
+    }
+  }
+}

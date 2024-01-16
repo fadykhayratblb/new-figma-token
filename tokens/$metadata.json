@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "Core",
+    "Brand/fiber",
+    "Primitives/Color/Light",
+    "Primitives/Color/Dark",
+    "Primitives/Typography/Web",
+    "Primitives/Typography/Mobile",
+    "Spacing/Web",
+    "Spacing/Mobile"
+  ]
+}
