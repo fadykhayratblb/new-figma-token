@@ -1,0 +1,64 @@
+/**
+ * Do not edit directly, this file was auto-generated
+ */
+
+:host {
+  --colors-absolute-light: #fff;
+  --colors-absolute-dark: #000;
+  --colors-brand-background: #ffefe5;
+  --colors-brand-primary: #ff7630;
+  --colors-brand-text: #852d00;
+  --colors-success-background: #e8ebde;
+  --colors-success-primary: #2e8138;
+  --colors-success-text: #1a3b1a; /* Naming Depends on HSl ( L ) nummber  */
+  --colors-info-background: #eeedf5;
+  --colors-info-primary: #4495eb;
+  --colors-info-text: #234571; /*  Naming Depends on HSl ( L ) nummber  */
+  --colors-neutral-background: #eee7e3;
+  --colors-neutral-primary: #6f6966;
+  --colors-neutral-text: #272220;
+  --colors-brand-0: #ff7630; /*  Naming Depends on HSl ( L ) nummber  */
+  --colors-brand-l88: #ffefe5;
+  --colors-brand-l72: #ffd9c5;
+  --colors-brand-l24: #ff9762; /*  Naming Depends on HSl ( L ) nummber  */
+  --colors-brand-d40: #b63d00;
+  --colors-brand-d56: #852d00;
+  --sizing-xxsmall: 8px;
+  --sizing-xsmall: 16px;
+  --sizing-small: 32px;
+  --sizing-medium: 64px;
+  --sizing-large: 128px;
+  --sizing-xlarge: 320px;
+  --border-radius-none: 0;
+  --border-radius-small: 4px;
+  --border-radius-medium: 8px;
+  --border-radius-large: 16px;
+  --border-radius-xlarge: 24px;
+  --border-radius-full: 9999px;
+  --border-width-small: 0.5px;
+  --border-width-medium: 1;
+  --border-width-large: 1.5px;
+  --border-width-xlarge: 2;
+  --boxshadows-none: 0 0 0 0 #0000;
+  --boxshadows-inner: inset 0 2px 4px 0 rgba(0,0,0,0.05);
+  --boxshadows-small: 1px 2px 2px 0 rgba(0,0,0,0.1);
+  --boxshadows-medium: 0 4px 5px rgba(0,0,0,0.1);
+  --boxshadows-large: 0 10px 12px rgba(0,0,0,0.1);
+  --spacing-padding-xxsmall: 8px;
+  --spacing-padding-xsmall: 16px;
+  --spacing-padding-small: 24px;
+  --spacing-padding-medium: 48px;
+  --spacing-padding-large: 64px;
+  --spacing-padding-xlarge: 96px;
+  --spacing-padding-xxlarge: 128px;
+  --heading-expressive: 600 60px/1.4 'Noto Sans';
+  --heading-medium: 600 22px/1.4 'Noto Sans';
+  --heading-small: 500 16px/1.4 'Noto Sans';
+  --heading-x-small: 600 14px/1.4 'Noto Sans';
+  --body-regular: 400 16px/1.4 'Noto Sans';
+  --body-medium: 500 16px/1.4 'Noto Sans';
+  --body-small: 500 14px/1.4 'Noto Sans';
+  --utility-button: 600 14px/1.4 'Noto Sans';
+  --utility-label: 500 12px/1.4 'Noto Sans';
+  --utility-helper: 400 12px/1.4 'Noto Sans';
+}

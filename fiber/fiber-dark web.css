@@ -1,0 +1,64 @@
+/**
+ * Do not edit directly, this file was auto-generated
+ */
+
+:host {
+  --colors-absolute-light: #000;
+  --colors-absolute-dark: #fff;
+  --colors-info-background: #2c5c99;
+  --colors-info-primary: #68adee;
+  --colors-info-text: #c7def4; /*  Naming Depends on HSl ( L ) nummber  */
+  --colors-success-background: #205023;
+  --colors-success-primary: #41c655;
+  --colors-success-text: #b1ebba; /* Naming Depends on HSl ( L ) nummber  */
+  --colors-brand-background: #b63d00;
+  --colors-brand-primary: #ff9762;
+  --colors-brand-text: #ffd9c5;
+  --colors-neutral-background: #3b3633;
+  --colors-neutral-primary: #a8a29f;
+  --colors-neutral-text: #d9d2cf;
+  --colors-brand-0: #ff7630; /*  Naming Depends on HSl ( L ) nummber  */
+  --colors-brand-l88: #ffefe5;
+  --colors-brand-l72: #ffd9c5;
+  --colors-brand-l24: #ff9762; /*  Naming Depends on HSl ( L ) nummber  */
+  --colors-brand-d40: #b63d00;
+  --colors-brand-d56: #852d00;
+  --sizing-xxsmall: 8px;
+  --sizing-xsmall: 16px;
+  --sizing-small: 32px;
+  --sizing-medium: 64px;
+  --sizing-large: 128px;
+  --sizing-xlarge: 320px;
+  --border-radius-null: 0;
+  --border-radius-small: 4px;
+  --border-radius-medium: 8px;
+  --border-radius-large: 16px;
+  --border-radius-xlarge: 24px;
+  --border-radius-full: 9999px;
+  --border-width-small: 0.5px;
+  --border-width-medium: 1;
+  --border-width-large: 1.5px;
+  --border-width-xlarge: 2;
+  --boxshadows-copy-none: 0 0 0 0 #0000;
+  --boxshadows-copy-inner: inset 0 2px 4px 0 rgba(0,0,0,0.05);
+  --boxshadows-copy-small: 1px 2px 2px 0 rgba(0,0,0,0.1);
+  --boxshadows-copy-medium: 0 4px 5px rgba(0,0,0,0.1);
+  --boxshadows-copy-large: 0 10px 12px rgba(0,0,0,0.1);
+  --heading-expressive: 600 60px/1.4 'Noto Sans';
+  --heading-medium: 600 22px/1.4 'Noto Sans';
+  --heading-small: 500 16px/1.4 'Noto Sans';
+  --heading-x-small: 600 14px/1.4 'Noto Sans';
+  --body-regular: 400 16px/1.4 'Noto Sans';
+  --body-medium: 500 16px/1.4 'Noto Sans';
+  --body-small: 500 14px/1.4 'Noto Sans';
+  --utility-button: 600 14px/1.4 'Noto Sans';
+  --utility-label: 500 12px/1.4 'Noto Sans';
+  --utility-helper: 400 12px/1.4 'Noto Sans';
+  --spacing-padding-xxsmall: 8px;
+  --spacing-padding-xsmall: 16px;
+  --spacing-padding-small: 24px;
+  --spacing-padding-medium: 48px;
+  --spacing-padding-large: 64px;
+  --spacing-padding-xlarge: 96px;
+  --spacing-padding-xxlarge: 128px;
+}
