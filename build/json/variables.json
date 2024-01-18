@@ -1,0 +1,6190 @@
+{
+  "Padding": {
+    "padding-2": {
+      "value": "2px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "name": "paddingPadding2",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-2"
+      ]
+    },
+    "padding-4": {
+      "value": "4px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "name": "paddingPadding4",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-4"
+      ]
+    },
+    "padding-8": {
+      "value": "8px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "name": "paddingPadding8",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-8"
+      ]
+    },
+    "padding-16": {
+      "value": "16px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "name": "paddingPadding16",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-16"
+      ]
+    },
+    "padding-24": {
+      "value": "24px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "name": "paddingPadding24",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-24"
+      ]
+    },
+    "padding-32": {
+      "value": "32px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "name": "paddingPadding32",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-32"
+      ]
+    },
+    "padding-40": {
+      "value": "40px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "name": "paddingPadding40",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-40"
+      ]
+    },
+    "padding-48": {
+      "value": "48px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "name": "paddingPadding48",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-48"
+      ]
+    },
+    "padding-56": {
+      "value": "56px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "56",
+        "type": "spacing"
+      },
+      "name": "paddingPadding56",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-56"
+      ]
+    },
+    "padding-64": {
+      "value": "64px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "name": "paddingPadding64",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-64"
+      ]
+    },
+    "padding-80": {
+      "value": "80px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "name": "paddingPadding80",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-80"
+      ]
+    },
+    "padding-96": {
+      "value": "96px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "96",
+        "type": "spacing"
+      },
+      "name": "paddingPadding96",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-96"
+      ]
+    },
+    "padding-112": {
+      "value": "112px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "112",
+        "type": "spacing"
+      },
+      "name": "paddingPadding112",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-112"
+      ]
+    },
+    "padding-128": {
+      "value": "128px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "spacing"
+      },
+      "name": "paddingPadding128",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-128"
+      ]
+    },
+    "padding-144": {
+      "value": "144px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "144",
+        "type": "spacing"
+      },
+      "name": "paddingPadding144",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-144"
+      ]
+    },
+    "padding-160": {
+      "value": "160px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "160",
+        "type": "spacing"
+      },
+      "name": "paddingPadding160",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-160"
+      ]
+    },
+    "padding-176": {
+      "value": "176px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "176",
+        "type": "spacing"
+      },
+      "name": "paddingPadding176",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-176"
+      ]
+    },
+    "padding-192": {
+      "value": "192px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "192",
+        "type": "spacing"
+      },
+      "name": "paddingPadding192",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-192"
+      ]
+    },
+    "padding-208": {
+      "value": "208px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "208",
+        "type": "spacing"
+      },
+      "name": "paddingPadding208",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-208"
+      ]
+    },
+    "padding-224": {
+      "value": "224px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "224",
+        "type": "spacing"
+      },
+      "name": "paddingPadding224",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-224"
+      ]
+    },
+    "padding-240": {
+      "value": "240px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "240",
+        "type": "spacing"
+      },
+      "name": "paddingPadding240",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-240"
+      ]
+    },
+    "padding-256": {
+      "value": "256px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "256",
+        "type": "spacing"
+      },
+      "name": "paddingPadding256",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-256"
+      ]
+    },
+    "padding-288": {
+      "value": "288px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "288",
+        "type": "spacing"
+      },
+      "name": "paddingPadding288",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-288"
+      ]
+    },
+    "padding-320": {
+      "value": "320px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "320",
+        "type": "spacing"
+      },
+      "name": "paddingPadding320",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-320"
+      ]
+    },
+    "padding-384": {
+      "value": "384px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "384",
+        "type": "spacing"
+      },
+      "name": "paddingPadding384",
+      "attributes": {},
+      "path": [
+        "Padding",
+        "padding-384"
+      ]
+    }
+  },
+  "fontFamilies": {
+    "noto-sans": {
+      "value": "'Noto Sans'",
+      "type": "fontFamilies",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "Noto Sans",
+        "type": "fontFamilies"
+      },
+      "name": "fontFamiliesNotoSans",
+      "attributes": {},
+      "path": [
+        "fontFamilies",
+        "noto-sans"
+      ]
+    },
+    "noto-sans-arabic": {
+      "value": "'Noto Sans Arabic'",
+      "type": "fontFamilies",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "Noto Sans Arabic",
+        "type": "fontFamilies"
+      },
+      "name": "fontFamiliesNotoSansArabic",
+      "attributes": {},
+      "path": [
+        "fontFamilies",
+        "noto-sans-arabic"
+      ]
+    }
+  },
+  "lineHeights": {
+    "lineHeights-100": {
+      "value": 1,
+      "type": "lineHeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "name": "lineHeightsLineHeights100",
+      "attributes": {},
+      "path": [
+        "lineHeights",
+        "lineHeights-100"
+      ]
+    },
+    "lineHeights-130": {
+      "value": 1.3,
+      "type": "lineHeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "130%",
+        "type": "lineHeights"
+      },
+      "name": "lineHeightsLineHeights130",
+      "attributes": {},
+      "path": [
+        "lineHeights",
+        "lineHeights-130"
+      ]
+    },
+    "lineHeights-140": {
+      "value": 1.4,
+      "type": "lineHeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "140%",
+        "type": "lineHeights"
+      },
+      "name": "lineHeightsLineHeights140",
+      "attributes": {},
+      "path": [
+        "lineHeights",
+        "lineHeights-140"
+      ]
+    },
+    "lineHeights-150": {
+      "value": 1.5,
+      "type": "lineHeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "name": "lineHeightsLineHeights150",
+      "attributes": {},
+      "path": [
+        "lineHeights",
+        "lineHeights-150"
+      ]
+    }
+  },
+  "fontWeights": {
+    "Regular": {
+      "value": "400",
+      "type": "fontWeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "name": "fontWeightsRegular",
+      "attributes": {},
+      "path": [
+        "fontWeights",
+        "Regular"
+      ]
+    },
+    "Medium": {
+      "value": "500",
+      "type": "fontWeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "500",
+        "type": "fontWeights"
+      },
+      "name": "fontWeightsMedium",
+      "attributes": {},
+      "path": [
+        "fontWeights",
+        "Medium"
+      ]
+    },
+    "SemiBold": {
+      "value": "600",
+      "type": "fontWeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "600",
+        "type": "fontWeights"
+      },
+      "name": "fontWeightsSemiBold",
+      "attributes": {},
+      "path": [
+        "fontWeights",
+        "SemiBold"
+      ]
+    },
+    "Bold": {
+      "value": "700",
+      "type": "fontWeights",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "700",
+        "type": "fontWeights"
+      },
+      "name": "fontWeightsBold",
+      "attributes": {},
+      "path": [
+        "fontWeights",
+        "Bold"
+      ]
+    }
+  },
+  "fontSize": {
+    "fontSize-12": {
+      "value": "12px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize12",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-12"
+      ]
+    },
+    "fontSize-14": {
+      "value": "14px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize14",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-14"
+      ]
+    },
+    "fontSize-16": {
+      "value": "16px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize16",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-16"
+      ]
+    },
+    "fontSize-18": {
+      "value": "18px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize18",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-18"
+      ]
+    },
+    "fontSize-20": {
+      "value": "20px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize20",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-20"
+      ]
+    },
+    "fontSize-22": {
+      "value": "22px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "22",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize22",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-22"
+      ]
+    },
+    "fontSize-24": {
+      "value": "24px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize24",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-24"
+      ]
+    },
+    "fontSize-32": {
+      "value": "32px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize32",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-32"
+      ]
+    },
+    "fontSize-60": {
+      "value": "60px",
+      "type": "fontSizes",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "60",
+        "type": "fontSizes"
+      },
+      "name": "fontSizeFontSize60",
+      "attributes": {},
+      "path": [
+        "fontSize",
+        "fontSize-60"
+      ]
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0em",
+      "type": "letterSpacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "name": "letterSpacing0",
+      "attributes": {},
+      "path": [
+        "letterSpacing",
+        "0"
+      ]
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      },
+      "name": "paragraphSpacing0",
+      "attributes": {},
+      "path": [
+        "paragraphSpacing",
+        "0"
+      ]
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "name": "textCaseNone",
+      "attributes": {},
+      "path": [
+        "textCase",
+        "none"
+      ]
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "name": "textDecorationNone",
+      "attributes": {},
+      "path": [
+        "textDecoration",
+        "none"
+      ]
+    }
+  },
+  "Colors": {
+    "Blue": {
+      "0": {
+        "value": "#2196F3",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "#2196F3",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsBlue0",
+        "attributes": {
+          "value": "#2196F3",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "#2196F3",
+            "type": "color",
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Blue",
+            "0"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Blue",
+          "0"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "l88": {
+        "value": "#ebf2fe",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlueL88",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Blue",
+          "l88"
+        ]
+      },
+      "l72": {
+        "value": "#c1e2fc",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlueL72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Blue",
+          "l72"
+        ]
+      },
+      "l24": {
+        "value": "#56aff6",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsBlueL24",
+        "attributes": {
+          "value": "#2196F3",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Blue.0}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.24",
+                  "space": "hsl",
+                  "filePath": "tokens/Core.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "l24",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Blue",
+            "l24"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Blue",
+          "l24"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "d40": {
+        "value": "#085b9d",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.40",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlueD40",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Blue",
+          "d40"
+        ]
+      },
+      "d56": {
+        "value": "#064373",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlueD56",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Blue",
+          "d56"
+        ]
+      }
+    },
+    "Black": {
+      "black": {
+        "value": "#000",
+        "type": "color",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "#000",
+          "type": "color"
+        },
+        "name": "colorsBlackBlack",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "black"
+        ]
+      },
+      "gray-12": {
+        "value": "#1f1f1f",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.12",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.12",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray12",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-12"
+        ]
+      },
+      "gray-20": {
+        "value": "#333",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.20",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.20",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray20",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-20"
+        ]
+      },
+      "gray-28": {
+        "value": "#474747",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.28",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.28",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray28",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-28"
+        ]
+      },
+      "gray-36": {
+        "value": "#5c5c5c",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.36",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.36",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray36",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-36"
+        ]
+      },
+      "gray-44": {
+        "value": "#686868",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.44",
+              "space": "lch",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.44",
+                "space": "lch",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray44",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-44"
+        ]
+      },
+      "gray-64": {
+        "value": "#a3a3a3",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.64",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.64",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray64",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-64"
+        ]
+      },
+      "gray-72": {
+        "value": "#b8b8b8",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-72"
+        ]
+      },
+      "gray-84": {
+        "value": "#d6d6d6",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.84",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.84",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray84",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-84"
+        ]
+      },
+      "gray-92": {
+        "value": "#ebebeb",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.92",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.92",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray92",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-92"
+        ]
+      },
+      "gray-100": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "100",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "100",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBlackGray100",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Black",
+          "gray-100"
+        ]
+      }
+    },
+    "Red": {
+      "0": {
+        "value": "#DA1E28",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "#DA1E28",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsRed0",
+        "attributes": {
+          "value": "#DA1E28",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "#DA1E28",
+            "type": "color",
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Red",
+            "0"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Red",
+          "0"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "l88": {
+        "value": "#ffe7e3",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Red.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsRedL88",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Red",
+          "l88"
+        ]
+      },
+      "l72": {
+        "value": "#f6bfc1",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Red.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsRedL72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Red",
+          "l72"
+        ]
+      },
+      "l24": {
+        "value": "#e75058",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Red.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsRedL24",
+        "attributes": {
+          "value": "#DA1E28",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Red.0}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.24",
+                  "space": "hsl",
+                  "filePath": "tokens/Core.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "l24",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Red",
+            "l24"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Red",
+          "l24"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "d40": {
+        "value": "#831218",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Red.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.40",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsRedD40",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Red",
+          "d40"
+        ]
+      },
+      "d56": {
+        "value": "#600d12",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Red.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsRedD56",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Red",
+          "d56"
+        ]
+      }
+    },
+    "Orange": {
+      "0": {
+        "value": "#ff5e36",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff5e36",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsOrange0",
+        "attributes": {
+          "value": "#ff5e36",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "#ff5e36",
+            "type": "color",
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Orange",
+            "0"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Orange",
+          "0"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "l88": {
+        "value": "#ffede5",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Orange.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsOrangeL88",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Orange",
+          "l88"
+        ]
+      },
+      "l72": {
+        "value": "#ffd2c7",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Orange.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsOrangeL72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Orange",
+          "l72"
+        ]
+      },
+      "l24": {
+        "value": "#ff8566",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Orange.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsOrangeL24",
+        "attributes": {
+          "value": "#ff5e36",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Orange.0}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.24",
+                  "space": "hsl",
+                  "filePath": "tokens/Core.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "l24",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Orange",
+            "l24"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Orange",
+          "l24"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "d40": {
+        "value": "#b92500",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Orange.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.40",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsOrangeD40",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Orange",
+          "d40"
+        ]
+      },
+      "d56": {
+        "value": "#881b00",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Orange.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsOrangeD56",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Orange",
+          "d56"
+        ]
+      }
+    },
+    "Green": {
+      "0": {
+        "value": "#198038",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "#198038",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsGreen0",
+        "attributes": {
+          "value": "#198038",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "#198038",
+            "type": "color",
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Green",
+            "0"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Green",
+          "0"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "l88": {
+        "value": "#e5f0e5",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsGreenL88",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Green",
+          "l88"
+        ]
+      },
+      "l72": {
+        "value": "#abefc0",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsGreenL72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Green",
+          "l72"
+        ]
+      },
+      "l24": {
+        "value": "#27c857",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsGreenL24",
+        "attributes": {
+          "value": "#198038",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Green.0}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.24",
+                  "space": "hsl",
+                  "filePath": "tokens/Core.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "l24",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Green",
+            "l24"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Green",
+          "l24"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "d40": {
+        "value": "#0f4d22",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.40",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsGreenD40",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Green",
+          "d40"
+        ]
+      },
+      "d56": {
+        "value": "#0b3819",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsGreenD56",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Green",
+          "d56"
+        ]
+      }
+    },
+    "Yellow": {
+      "0": {
+        "value": "#e6b919",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "#e6b919",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsYellow0",
+        "attributes": {
+          "value": "#e6b919",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "#e6b919",
+            "type": "color",
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Yellow",
+            "0"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Yellow",
+          "0"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "l88": {
+        "value": "#fff6e6",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Yellow.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsYellowL88",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Yellow",
+          "l88"
+        ]
+      },
+      "l72": {
+        "value": "#f8ebbf",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Yellow.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsYellowL72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Yellow",
+          "l72"
+        ]
+      },
+      "l24": {
+        "value": "#ecca50",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Yellow.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsYellowL24",
+        "attributes": {
+          "value": "#e6b919",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Core.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Yellow.0}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.24",
+                  "space": "hsl",
+                  "filePath": "tokens/Core.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "l24",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Yellow",
+            "l24"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Yellow",
+          "l24"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "d40": {
+        "value": "#8a6f0f",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Yellow.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.40",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsYellowD40",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Yellow",
+          "d40"
+        ]
+      },
+      "d56": {
+        "value": "#65510b",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl",
+              "filePath": "tokens/Core.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Yellow.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl",
+                "filePath": "tokens/Core.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsYellowD56",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Yellow",
+          "d56"
+        ]
+      }
+    },
+    "Absolute": {
+      "light": {
+        "value": "#000",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color"
+        },
+        "name": "colorsAbsoluteLight",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Absolute",
+          "light"
+        ]
+      },
+      "dark": {
+        "value": "#fff",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-100}",
+          "type": "color"
+        },
+        "name": "colorsAbsoluteDark",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Absolute",
+          "dark"
+        ]
+      }
+    },
+    "info": {
+      "background": {
+        "value": "#2c5c99",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.d40}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsInfoBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "info",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#68adee",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.l24}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsInfoPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "info",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#c7def4",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.l72}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsInfoText",
+        "attributes": {
+          "value": "#c1e2fc",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "#ff7630",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Primitives/Color/Dark.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Blue.l72}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "mix",
+                  "value": "0.04",
+                  "space": "hsl",
+                  "color": "{Colors.Brand.0}",
+                  "filePath": "tokens/Primitives/Color/Dark.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "text",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "info",
+            "text"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "info",
+          "text"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      }
+    },
+    "success": {
+      "background": {
+        "value": "#205023",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.d40}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsSuccessBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "success",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#41c655",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.l24}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsSuccessPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "success",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#b1ebba",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "Naming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.l72}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "lch",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "Naming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsSuccessText",
+        "attributes": {
+          "value": "#abefc0",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "lch",
+                "color": "#ff7630",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "Naming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Primitives/Color/Dark.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Green.l72}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "mix",
+                  "value": "0.04",
+                  "space": "lch",
+                  "color": "{Colors.Brand.0}",
+                  "filePath": "tokens/Primitives/Color/Dark.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "Naming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "text",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "success",
+            "text"
+          ],
+          "comment": "Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "success",
+          "text"
+        ],
+        "comment": "Naming Depends on HSl ( L ) nummber "
+      }
+    },
+    "brand": {
+      "background": {
+        "value": "#b63d00",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.d40}",
+          "type": "color"
+        },
+        "name": "colorsBrandBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "brand",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#ff9762",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.l24}",
+          "type": "color"
+        },
+        "name": "colorsBrandPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "brand",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#ffd9c5",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.l72}",
+          "type": "color"
+        },
+        "name": "colorsBrandText",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "brand",
+          "text"
+        ]
+      }
+    },
+    "Neutral": {
+      "background": {
+        "value": "#3b3633",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-20}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "lch",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsNeutralBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#a8a29f",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-64}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsNeutralPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#d9d2cf",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Dark.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Dark.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-84}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Dark.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsNeutralText",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "text"
+        ]
+      }
+    },
+    "Brand": {
+      "0": {
+        "value": "#ff7630",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff7630",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsBrand0",
+        "attributes": {
+          "value": "#ff7630",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Brand/fiber.json",
+          "isSource": true,
+          "original": {
+            "value": "#ff7630",
+            "type": "color",
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Brand",
+            "0"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Brand",
+          "0"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "l88": {
+        "value": "#ffefe5",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandL88",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "l88"
+        ]
+      },
+      "l72": {
+        "value": "#ffd9c5",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandL72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "l72"
+        ]
+      },
+      "l24": {
+        "value": "#ff9762",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsBrandL24",
+        "attributes": {
+          "value": "#ff7630",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Brand/fiber.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Brand.0}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.24",
+                  "space": "hsl",
+                  "filePath": "tokens/Brand/fiber.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "l24",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Brand",
+            "l24"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Brand",
+          "l24"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "d40": {
+        "value": "#b63d00",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.40",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandD40",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "d40"
+        ]
+      },
+      "d56": {
+        "value": "#852d00",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandD56",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "d56"
+        ]
+      }
+    }
+  },
+  "Sizing": {
+    "sizing-0": {
+      "value": "0",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "name": "sizingSizing0",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-0"
+      ]
+    },
+    "sizing-1": {
+      "value": "1px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "1",
+        "type": "sizing"
+      },
+      "name": "sizingSizing1",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-1"
+      ]
+    },
+    "sizing-2": {
+      "value": "2px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "sizing"
+      },
+      "name": "sizingSizing2",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-2"
+      ]
+    },
+    "sizing-3": {
+      "value": "3px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "3",
+        "type": "sizing"
+      },
+      "name": "sizingSizing3",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-3"
+      ]
+    },
+    "sizing-4": {
+      "value": "4px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "4",
+        "type": "sizing"
+      },
+      "name": "sizingSizing4",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-4"
+      ]
+    },
+    "sizing-6": {
+      "value": "6px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "6",
+        "type": "sizing"
+      },
+      "name": "sizingSizing6",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-6"
+      ]
+    },
+    "sizing-8": {
+      "value": "8px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "8",
+        "type": "sizing"
+      },
+      "name": "sizingSizing8",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-8"
+      ]
+    },
+    "sizing-10": {
+      "value": "10px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "10",
+        "type": "sizing"
+      },
+      "name": "sizingSizing10",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-10"
+      ]
+    },
+    "sizing-15": {
+      "value": "15px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "15",
+        "type": "sizing"
+      },
+      "name": "sizingSizing15",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-15"
+      ]
+    },
+    "sizing-16": {
+      "value": "16px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "sizing"
+      },
+      "name": "sizingSizing16",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-16"
+      ]
+    },
+    "sizing-20": {
+      "value": "20px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "name": "sizingSizing20",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-20"
+      ]
+    },
+    "sizing-24": {
+      "value": "24px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "name": "sizingSizing24",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-24"
+      ]
+    },
+    "sizing-25": {
+      "value": "25px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "25",
+        "type": "sizing"
+      },
+      "name": "sizingSizing25",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-25"
+      ]
+    },
+    "sizing-32": {
+      "value": "32px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "name": "sizingSizing32",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-32"
+      ]
+    },
+    "sizing-40": {
+      "value": "40px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "name": "sizingSizing40",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-40"
+      ]
+    },
+    "sizing-48": {
+      "value": "48px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "name": "sizingSizing48",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-48"
+      ]
+    },
+    "sizing-50": {
+      "value": "50px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "50",
+        "type": "sizing"
+      },
+      "name": "sizingSizing50",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-50"
+      ]
+    },
+    "sizing-56": {
+      "value": "56px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "56",
+        "type": "sizing"
+      },
+      "name": "sizingSizing56",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-56"
+      ]
+    },
+    "sizing-64": {
+      "value": "64px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "64",
+        "type": "sizing"
+      },
+      "name": "sizingSizing64",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-64"
+      ]
+    },
+    "sizing-80": {
+      "value": "80px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "name": "sizingSizing80",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-80"
+      ]
+    },
+    "sizing-96": {
+      "value": "96px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "96",
+        "type": "sizing"
+      },
+      "name": "sizingSizing96",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-96"
+      ]
+    },
+    "sizing-112": {
+      "value": "112px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "112",
+        "type": "sizing"
+      },
+      "name": "sizingSizing112",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-112"
+      ]
+    },
+    "sizing-128": {
+      "value": "128px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "sizing"
+      },
+      "name": "sizingSizing128",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-128"
+      ]
+    },
+    "sizing-144": {
+      "value": "144px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "144",
+        "type": "sizing"
+      },
+      "name": "sizingSizing144",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-144"
+      ]
+    },
+    "sizing-160": {
+      "value": "160px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "160",
+        "type": "sizing"
+      },
+      "name": "sizingSizing160",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-160"
+      ]
+    },
+    "sizing-176": {
+      "value": "176px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "176",
+        "type": "sizing"
+      },
+      "name": "sizingSizing176",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-176"
+      ]
+    },
+    "sizing-192": {
+      "value": "192px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "192",
+        "type": "sizing"
+      },
+      "name": "sizingSizing192",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-192"
+      ]
+    },
+    "sizing-208": {
+      "value": "208px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "208",
+        "type": "sizing"
+      },
+      "name": "sizingSizing208",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-208"
+      ]
+    },
+    "sizing-224": {
+      "value": "224px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "224",
+        "type": "sizing"
+      },
+      "name": "sizingSizing224",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-224"
+      ]
+    },
+    "sizing-240": {
+      "value": "240px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "240",
+        "type": "sizing"
+      },
+      "name": "sizingSizing240",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-240"
+      ]
+    },
+    "sizing-256": {
+      "value": "256px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "256",
+        "type": "sizing"
+      },
+      "name": "sizingSizing256",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-256"
+      ]
+    },
+    "sizing-288": {
+      "value": "288px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "288",
+        "type": "sizing"
+      },
+      "name": "sizingSizing288",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-288"
+      ]
+    },
+    "sizing-320": {
+      "value": "320px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "320",
+        "type": "sizing"
+      },
+      "name": "sizingSizing320",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-320"
+      ]
+    },
+    "sizing-384": {
+      "value": "384px",
+      "type": "sizing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "384",
+        "type": "sizing"
+      },
+      "name": "sizingSizing384",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "sizing-384"
+      ]
+    },
+    "xxsmall": {
+      "value": "8px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-8}",
+        "type": "sizing"
+      },
+      "name": "sizingXxsmall",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "xxsmall"
+      ]
+    },
+    "xsmall": {
+      "value": "16px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-16}",
+        "type": "sizing"
+      },
+      "name": "sizingXsmall",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "xsmall"
+      ]
+    },
+    "small": {
+      "value": "32px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-32}",
+        "type": "sizing"
+      },
+      "name": "sizingSmall",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "64px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-64}",
+        "type": "sizing"
+      },
+      "name": "sizingMedium",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "128px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-128}",
+        "type": "sizing"
+      },
+      "name": "sizingLarge",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "large"
+      ]
+    },
+    "xlarge": {
+      "value": "320px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-320}",
+        "type": "sizing"
+      },
+      "name": "sizingXlarge",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "xlarge"
+      ]
+    }
+  },
+  "shadow-sm": {
+    "value": "1px 2px 2px 0 rgba(0,0,0,0.1)",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": {
+        "x": "{Sizing.sizing-1}",
+        "y": "{Sizing.sizing-2}",
+        "blur": "{Sizing.sizing-2}",
+        "spread": "{Sizing.sizing-0}",
+        "color": "rgba(0,0,0,0.1)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "name": "shadowSm",
+    "attributes": {},
+    "path": [
+      "shadow-sm"
+    ]
+  },
+  "shadow": {
+    "value": "0 1px 3px 0 rgba(0,0,0,0.1)",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": [
+        {
+          "x": "{Sizing.sizing-0}",
+          "y": "{Sizing.sizing-1}",
+          "blur": "{Sizing.sizing-3}",
+          "spread": "{Sizing.sizing-0}",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "name": "shadow",
+    "attributes": {},
+    "path": [
+      "shadow"
+    ]
+  },
+  "shadow-md": {
+    "value": "0 4px 6px -1px rgba(0,0,0,0.1)",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": [
+        {
+          "x": "{Sizing.sizing-0}",
+          "y": "{Sizing.sizing-4}",
+          "blur": "{Sizing.sizing-6}",
+          "spread": "-1",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "name": "shadowMd",
+    "attributes": {},
+    "path": [
+      "shadow-md"
+    ]
+  },
+  "shadow-lg": {
+    "value": "0 10px 15px -3px rgba(0,0,0,0.1)",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": [
+        {
+          "x": "{Sizing.sizing-0}",
+          "y": "{Sizing.sizing-10}",
+          "blur": "{Sizing.sizing-15}",
+          "spread": "-3",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "name": "shadowLg",
+    "attributes": {},
+    "path": [
+      "shadow-lg"
+    ]
+  },
+  "shadow-xl": {
+    "value": "0 20px 25px -5px rgba(0,0,0,0.1)",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": {
+        "x": "{Sizing.sizing-0}",
+        "y": "{Sizing.sizing-20}",
+        "blur": "{Sizing.sizing-25}",
+        "spread": "-5",
+        "color": "rgba(0,0,0,0.1)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "name": "shadowXl",
+    "attributes": {},
+    "path": [
+      "shadow-xl"
+    ]
+  },
+  "shadow-2xl": {
+    "value": "0 25px 50px -12px rgba(0,0,0,0.25)",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": {
+        "x": "{Sizing.sizing-0}",
+        "y": "{Sizing.sizing-25}",
+        "blur": "{Sizing.sizing-50}",
+        "spread": "-12",
+        "color": "rgba(0,0,0,0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "name": "shadow2xl",
+    "attributes": {},
+    "path": [
+      "shadow-2xl"
+    ]
+  },
+  "shadow-inner": {
+    "value": "inset 0 2px 4px 0 rgba(0,0,0,0.05)",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": {
+        "x": "{Sizing.sizing-0}",
+        "y": "{Sizing.sizing-2}",
+        "blur": "{Sizing.sizing-4}",
+        "spread": "{Sizing.sizing-0}",
+        "color": "rgba(0,0,0,0.05)",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
+    },
+    "name": "shadowInner",
+    "attributes": {},
+    "path": [
+      "shadow-inner"
+    ]
+  },
+  "shadow-none": {
+    "value": "0 0 0 0 #0000",
+    "type": "boxShadow",
+    "filePath": "tokens/Core.json",
+    "isSource": true,
+    "original": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "#0000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "name": "shadowNone",
+    "attributes": {},
+    "path": [
+      "shadow-none"
+    ]
+  },
+  "Opacity": {
+    "opacity-0": {
+      "value": 0,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "0%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity0",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-0"
+      ]
+    },
+    "opacity-5": {
+      "value": 0.05,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "5%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity5",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-5"
+      ]
+    },
+    "opacity-10": {
+      "value": 0.1,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "10%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity10",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-10"
+      ]
+    },
+    "opacity-15": {
+      "value": 0.15,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "15%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity15",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-15"
+      ]
+    },
+    "opacity-20": {
+      "value": 0.2,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "20%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity20",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-20"
+      ]
+    },
+    "opacity-25": {
+      "value": 0.25,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "25%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity25",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-25"
+      ]
+    },
+    "opacity-30": {
+      "value": 0.3,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "30%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity30",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-30"
+      ]
+    },
+    "opacity-35": {
+      "value": 0.35,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "35%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity35",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-35"
+      ]
+    },
+    "opacity-40": {
+      "value": 0.4,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "40%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity40",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-40"
+      ]
+    },
+    "opacity-45": {
+      "value": 0.45,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "45%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity45",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-45"
+      ]
+    },
+    "opacity-50": {
+      "value": 0.5,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "50%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity50",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-50"
+      ]
+    },
+    "opacity-55": {
+      "value": 0.55,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "55%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity55",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-55"
+      ]
+    },
+    "opacity-60": {
+      "value": 0.6,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "60%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity60",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-60"
+      ]
+    },
+    "opacity-65": {
+      "value": 0.65,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "65%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity65",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-65"
+      ]
+    },
+    "opacity-70": {
+      "value": 0.7,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "70%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity70",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-70"
+      ]
+    },
+    "opacity-75": {
+      "value": 0.75,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "75%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity75",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-75"
+      ]
+    },
+    "opacity-80": {
+      "value": 0.8,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "80%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity80",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-80"
+      ]
+    },
+    "opacity-85": {
+      "value": 0.85,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "85%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity85",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-85"
+      ]
+    },
+    "opacity-90": {
+      "value": 0.9,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "90%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity90",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-90"
+      ]
+    },
+    "opacity-95": {
+      "value": 0.95,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "95%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity95",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-95"
+      ]
+    },
+    "opacity-100": {
+      "value": 1,
+      "type": "opacity",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "100%",
+        "type": "opacity"
+      },
+      "name": "opacityOpacity100",
+      "attributes": {},
+      "path": [
+        "Opacity",
+        "opacity-100"
+      ]
+    }
+  },
+  "Border Radius": {
+    "rounded-0": {
+      "value": "0",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded0",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-0"
+      ]
+    },
+    "rounded-2": {
+      "value": "2px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded2",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-2"
+      ]
+    },
+    "rounded-4": {
+      "value": "4px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded4",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-4"
+      ]
+    },
+    "rounded-6": {
+      "value": "6px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "6",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded6",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-6"
+      ]
+    },
+    "rounded-8": {
+      "value": "8px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded8",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-8"
+      ]
+    },
+    "rounded-12": {
+      "value": "12px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded12",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-12"
+      ]
+    },
+    "rounded-16": {
+      "value": "16px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded16",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-16"
+      ]
+    },
+    "rounded-24": {
+      "value": "24px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "24",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded24",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-24"
+      ]
+    },
+    "rounded-9999": {
+      "value": "9999px",
+      "type": "borderRadius",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "9999",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusRounded9999",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "rounded-9999"
+      ]
+    },
+    "null": {
+      "value": "0",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-0}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusNull",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "null"
+      ]
+    },
+    "small": {
+      "value": "4px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-4}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusSmall",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "8px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-8}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusMedium",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "16px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-16}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusLarge",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "large"
+      ]
+    },
+    "xlarge": {
+      "value": "24px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-24}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusXlarge",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "xlarge"
+      ]
+    },
+    "full": {
+      "value": "9999px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-9999}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusFull",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "full"
+      ]
+    }
+  },
+  "Numbers": {
+    "numbers-0": {
+      "value": "0",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "number"
+      },
+      "name": "numbersNumbers0",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-0"
+      ]
+    },
+    "numbers-1": {
+      "value": "1",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "1",
+        "type": "number"
+      },
+      "name": "numbersNumbers1",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-1"
+      ]
+    },
+    "numbers-2": {
+      "value": "2",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "number"
+      },
+      "name": "numbersNumbers2",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-2"
+      ]
+    },
+    "numbers-3": {
+      "value": "3",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "3",
+        "type": "number"
+      },
+      "name": "numbersNumbers3",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-3"
+      ]
+    },
+    "numbers-4": {
+      "value": "4",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "4",
+        "type": "number"
+      },
+      "name": "numbersNumbers4",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-4"
+      ]
+    },
+    "numbers-5": {
+      "value": "5",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "5",
+        "type": "number"
+      },
+      "name": "numbersNumbers5",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-5"
+      ]
+    },
+    "numbers-6": {
+      "value": "6",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "6",
+        "type": "number"
+      },
+      "name": "numbersNumbers6",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-6"
+      ]
+    },
+    "numbers-7": {
+      "value": "7",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "7",
+        "type": "number"
+      },
+      "name": "numbersNumbers7",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-7"
+      ]
+    },
+    "numbers-8": {
+      "value": "8",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "8",
+        "type": "number"
+      },
+      "name": "numbersNumbers8",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-8"
+      ]
+    },
+    "numbers-10": {
+      "value": "10",
+      "type": "number",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "10",
+        "type": "number"
+      },
+      "name": "numbersNumbers10",
+      "attributes": {},
+      "path": [
+        "Numbers",
+        "numbers-10"
+      ]
+    }
+  },
+  "Border Width": {
+    "border-w-0": {
+      "value": "0",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "{Numbers.numbers-0}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW0",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-0"
+      ]
+    },
+    "border-w-0,5": {
+      "value": "0.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "0.5",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW05",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-0,5"
+      ]
+    },
+    "border-w-1": {
+      "value": "1",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "{Numbers.numbers-1}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW1",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-1"
+      ]
+    },
+    "border-w-1,5": {
+      "value": "1.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "1.5",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW15",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-1,5"
+      ]
+    },
+    "border-w-2": {
+      "value": "2",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "{Numbers.numbers-2}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW2",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-2"
+      ]
+    },
+    "border-w-2,5": {
+      "value": "2.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "2.5",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW25",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-2,5"
+      ]
+    },
+    "border-w-3": {
+      "value": "3",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "{Numbers.numbers-3}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW3",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-3"
+      ]
+    },
+    "border-w-3,5": {
+      "value": "3.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "3.5",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW35",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-3,5"
+      ]
+    },
+    "border-w-4": {
+      "value": "4",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "{Numbers.numbers-4}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW4",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-4"
+      ]
+    },
+    "border-w-4,5": {
+      "value": "4.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "4.5",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW45",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-4,5"
+      ]
+    },
+    "border-w-6": {
+      "value": "6px",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "6",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW6",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-6"
+      ]
+    },
+    "border-w-8": {
+      "value": "8px",
+      "type": "borderWidth",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "8",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthBorderW8",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "border-w-8"
+      ]
+    },
+    "small": {
+      "value": "0.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-0,5}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthSmall",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "1",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-1}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthMedium",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "1.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-1,5}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthLarge",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "large"
+      ]
+    },
+    "xlarge": {
+      "value": "2",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-2}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthXlarge",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "xlarge"
+      ]
+    }
+  },
+  "Border Style": {
+    "border-solid": {
+      "value": "0.5px solid #ebebeb",
+      "type": "border",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "style": "solid",
+          "width": "{Border Width.border-w-0,5}",
+          "color": "{Colors.Black.gray-92}"
+        },
+        "type": "border"
+      },
+      "name": "borderStyleBorderSolid",
+      "attributes": {},
+      "path": [
+        "Border Style",
+        "border-solid"
+      ]
+    },
+    "border-dashed": {
+      "value": "0.5px dashed #d6d6d6",
+      "type": "border",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "style": "dashed",
+          "color": "{Colors.Black.gray-84}",
+          "width": "{Border Width.border-w-0,5}"
+        },
+        "type": "border"
+      },
+      "name": "borderStyleBorderDashed",
+      "attributes": {},
+      "path": [
+        "Border Style",
+        "border-dashed"
+      ]
+    }
+  },
+  "container": {
+    "container-xl": {
+      "maxWidth": {
+        "value": "1280",
+        "type": "maxWidth",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "1280",
+          "type": "maxWidth"
+        },
+        "name": "containerContainerXlMaxWidth",
+        "attributes": {},
+        "path": [
+          "container",
+          "container-xl",
+          "maxWidth"
+        ]
+      }
+    },
+    "container-2xl": {
+      "maxWidth": {
+        "value": "1536",
+        "type": "maxWidth",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "1536",
+          "type": "maxWidth"
+        },
+        "name": "containerContainer2xlMaxWidth",
+        "attributes": {},
+        "path": [
+          "container",
+          "container-2xl",
+          "maxWidth"
+        ]
+      }
+    },
+    "container-l": {
+      "maxWidth": {
+        "value": "1024",
+        "type": "maxWidth",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "1024",
+          "type": "maxWidth"
+        },
+        "name": "containerContainerLMaxWidth",
+        "attributes": {},
+        "path": [
+          "container",
+          "container-l",
+          "maxWidth"
+        ]
+      }
+    },
+    "container-md": {
+      "maxWidth": {
+        "value": "768",
+        "type": "maxWidth",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "768",
+          "type": "maxWidth"
+        },
+        "name": "containerContainerMdMaxWidth",
+        "attributes": {},
+        "path": [
+          "container",
+          "container-md",
+          "maxWidth"
+        ]
+      }
+    },
+    "container-sm": {
+      "maxWidth": {
+        "value": "640",
+        "type": "maxWidth",
+        "filePath": "tokens/Core.json",
+        "isSource": true,
+        "original": {
+          "value": "640",
+          "type": "maxWidth"
+        },
+        "name": "containerContainerSmMaxWidth",
+        "attributes": {},
+        "path": [
+          "container",
+          "container-sm",
+          "maxWidth"
+        ]
+      }
+    }
+  },
+  "Space Between": {
+    "space-4": {
+      "value": "4px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace4",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-4"
+      ]
+    },
+    "space-8": {
+      "value": "8px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace8",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-8"
+      ]
+    },
+    "space-16": {
+      "value": "16px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace16",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-16"
+      ]
+    },
+    "space-24": {
+      "value": "24px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace24",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-24"
+      ]
+    },
+    "space-32": {
+      "value": "32px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace32",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-32"
+      ]
+    },
+    "space-40": {
+      "value": "40px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace40",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-40"
+      ]
+    },
+    "space-48": {
+      "value": "48px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace48",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-48"
+      ]
+    },
+    "space-56": {
+      "value": "56px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "56",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace56",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-56"
+      ]
+    },
+    "space-64": {
+      "value": "64px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace64",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-64"
+      ]
+    },
+    "space-80": {
+      "value": "80px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace80",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-80"
+      ]
+    },
+    "space-96": {
+      "value": "96px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "96",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace96",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-96"
+      ]
+    },
+    "space-112": {
+      "value": "112px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "112",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace112",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-112"
+      ]
+    },
+    "space-128": {
+      "value": "128px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace128",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-128"
+      ]
+    },
+    "space-144": {
+      "value": "144px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "144",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace144",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-144"
+      ]
+    },
+    "space-160": {
+      "value": "160px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "160",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace160",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-160"
+      ]
+    },
+    "space-176": {
+      "value": "176px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "176",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace176",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-176"
+      ]
+    },
+    "space-192": {
+      "value": "192px",
+      "type": "spacing",
+      "filePath": "tokens/Core.json",
+      "isSource": true,
+      "original": {
+        "value": "192",
+        "type": "spacing"
+      },
+      "name": "spaceBetweenSpace192",
+      "attributes": {},
+      "path": [
+        "Space Between",
+        "space-192"
+      ]
+    }
+  },
+  "boxshadows-copy": {
+    "none": {
+      "value": "0 0 0 0 #0000",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-none}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsCopyNone",
+      "attributes": {},
+      "path": [
+        "boxshadows-copy",
+        "none"
+      ]
+    },
+    "inner": {
+      "value": "inset 0 2px 4px 0 rgba(0,0,0,0.05)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-inner}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsCopyInner",
+      "attributes": {},
+      "path": [
+        "boxshadows-copy",
+        "inner"
+      ]
+    },
+    "small": {
+      "value": "1px 2px 2px 0 rgba(0,0,0,0.1)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-sm}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsCopySmall",
+      "attributes": {},
+      "path": [
+        "boxshadows-copy",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "0 4px 5px rgba(0,0,0,0.1)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-md}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsCopyMedium",
+      "attributes": {},
+      "path": [
+        "boxshadows-copy",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "0 10px 12px rgba(0,0,0,0.1)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Dark.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-lg}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsCopyLarge",
+      "attributes": {},
+      "path": [
+        "boxshadows-copy",
+        "large"
+      ]
+    }
+  },
+  "Heading": {
+    "Expressive": {
+      "value": "600 60px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-60}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingExpressive",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "Expressive"
+      ]
+    },
+    "Medium": {
+      "value": "600 22px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-22}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingMedium",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "Medium"
+      ]
+    },
+    "Small": {
+      "value": "500 16px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-16}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingSmall",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "Small"
+      ]
+    },
+    "xSmall": {
+      "value": "600 14px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-14}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingXSmall",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "xSmall"
+      ]
+    }
+  },
+  "Body": {
+    "Regular": {
+      "value": "400 16px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Regular}",
+          "fontSize": "{fontSize.fontSize-16}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "bodyRegular",
+      "attributes": {},
+      "path": [
+        "Body",
+        "Regular"
+      ]
+    },
+    "Medium": {
+      "value": "500 16px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-16}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "bodyMedium",
+      "attributes": {},
+      "path": [
+        "Body",
+        "Medium"
+      ]
+    },
+    "Small": {
+      "value": "500 14px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-14}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "bodySmall",
+      "attributes": {},
+      "path": [
+        "Body",
+        "Small"
+      ]
+    }
+  },
+  "Utility": {
+    "Button": {
+      "value": "600 14px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-14}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "utilityButton",
+      "attributes": {},
+      "path": [
+        "Utility",
+        "Button"
+      ]
+    },
+    "Label": {
+      "value": "500 12px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-12}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "utilityLabel",
+      "attributes": {},
+      "path": [
+        "Utility",
+        "Label"
+      ]
+    },
+    "Helper": {
+      "value": "400 12px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Regular}",
+          "fontSize": "{fontSize.fontSize-12}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "utilityHelper",
+      "attributes": {},
+      "path": [
+        "Utility",
+        "Helper"
+      ]
+    }
+  },
+  "Spacing": {
+    "padding": {
+      "xxsmall": {
+        "value": "8px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-8}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXxsmall",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xxsmall"
+        ]
+      },
+      "xsmall": {
+        "value": "16px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-16}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXsmall",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xsmall"
+        ]
+      },
+      "small": {
+        "value": "24px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-24}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingSmall",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "small"
+        ]
+      },
+      "medium": {
+        "value": "48px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Space Between.space-48}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingMedium",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "medium"
+        ]
+      },
+      "large": {
+        "value": "64px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Space Between.space-64}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingLarge",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "large"
+        ]
+      },
+      "xlarge": {
+        "value": "96px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-96}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXlarge",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xlarge"
+        ]
+      },
+      "xxlarge": {
+        "value": "128px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-128}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXxlarge",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xxlarge"
+        ]
+      }
+    }
+  }
+}

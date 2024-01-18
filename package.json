@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "build:tokens": "node build-tokens.cjs",
+    "build": "node build-tokens.cjs",
     "demo:dev": "wds --open --watch --node-resolve",
     "demo:build": "rimraf dist && rollup -c rollup.config.js",
     "demo:start": "http-server -o -c-1 dist"

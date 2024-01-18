@@ -1,0 +1,1580 @@
+{
+  "Colors": {
+    "Absolute": {
+      "light": {
+        "value": "#fff",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-100}",
+          "type": "color"
+        },
+        "name": "colorsAbsoluteLight",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Absolute",
+          "light"
+        ]
+      },
+      "dark": {
+        "value": "#000",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.black}",
+          "type": "color"
+        },
+        "name": "colorsAbsoluteDark",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Absolute",
+          "dark"
+        ]
+      }
+    },
+    "brand": {
+      "background": {
+        "value": "#ffefe5",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.l88}",
+          "type": "color"
+        },
+        "name": "colorsBrandBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "brand",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#ff7630",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color"
+        },
+        "name": "colorsBrandPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "brand",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#852d00",
+        "type": "color",
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.d56}",
+          "type": "color"
+        },
+        "name": "colorsBrandText",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "brand",
+          "text"
+        ]
+      }
+    },
+    "success": {
+      "background": {
+        "value": "#e8ebde",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.l88}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsSuccessBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "success",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#2e8138",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsSuccessPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "success",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#1a3b1a",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "Naming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Green.d56}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "lch",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "Naming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsSuccessText",
+        "attributes": {
+          "value": "#0b3819",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "lch",
+                "color": "#ff7630",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "Naming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Primitives/Color/Light.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Green.d56}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "mix",
+                  "value": "0.04",
+                  "space": "lch",
+                  "color": "{Colors.Brand.0}",
+                  "filePath": "tokens/Primitives/Color/Light.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "Naming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "text",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "success",
+            "text"
+          ],
+          "comment": "Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "success",
+          "text"
+        ],
+        "comment": "Naming Depends on HSl ( L ) nummber "
+      }
+    },
+    "info": {
+      "background": {
+        "value": "#eeedf5",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.l88}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsInfoBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "info",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#4495eb",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsInfoPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "info",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#234571",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Blue.d56}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsInfoText",
+        "attributes": {
+          "value": "#064373",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "#ff7630",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Primitives/Color/Light.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Blue.d56}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "mix",
+                  "value": "0.04",
+                  "space": "hsl",
+                  "color": "{Colors.Brand.0}",
+                  "filePath": "tokens/Primitives/Color/Light.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "text",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "info",
+            "text"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "info",
+          "text"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      }
+    },
+    "Neutral": {
+      "background": {
+        "value": "#eee7e3",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-92}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "lch",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsNeutralBackground",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "background"
+        ]
+      },
+      "primary": {
+        "value": "#6f6966",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-44}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsNeutralPrimary",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "primary"
+        ]
+      },
+      "text": {
+        "value": "#272220",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "#ff7630",
+              "filePath": "tokens/Primitives/Color/Light.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Primitives/Color/Light.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Black.gray-12}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "hsl",
+                "color": "{Colors.Brand.0}",
+                "filePath": "tokens/Primitives/Color/Light.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsNeutralText",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "text"
+        ]
+      }
+    },
+    "Brand": {
+      "0": {
+        "value": "#ff7630",
+        "type": "color",
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff7630",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsBrand0",
+        "attributes": {
+          "value": "#ff7630",
+          "type": "color",
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Brand/fiber.json",
+          "isSource": true,
+          "original": {
+            "value": "#ff7630",
+            "type": "color",
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "0",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Brand",
+            "0"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Brand",
+          "0"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "l88": {
+        "value": "#ffefe5",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandL88",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "l88"
+        ]
+      },
+      "l72": {
+        "value": "#ffd9c5",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandL72",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "l72"
+        ]
+      },
+      "l24": {
+        "value": "#ff9762",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.24",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n",
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n"
+        },
+        "name": "colorsBrandL24",
+        "attributes": {
+          "value": "#ff7630",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.24",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true,
+                "format": "hex"
+              }
+            }
+          },
+          "description": "\nNaming Depends on HSl ( L ) nummber\n",
+          "filePath": "tokens/Brand/fiber.json",
+          "isSource": true,
+          "original": {
+            "value": "{Colors.Brand.0}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0.24",
+                  "space": "hsl",
+                  "filePath": "tokens/Brand/fiber.json",
+                  "isSource": true
+                }
+              }
+            },
+            "description": "\nNaming Depends on HSl ( L ) nummber\n"
+          },
+          "name": "l24",
+          "attributes": {},
+          "path": [
+            "Colors",
+            "Brand",
+            "l24"
+          ],
+          "comment": " Naming Depends on HSl ( L ) nummber "
+        },
+        "path": [
+          "Colors",
+          "Brand",
+          "l24"
+        ],
+        "comment": " Naming Depends on HSl ( L ) nummber "
+      },
+      "d40": {
+        "value": "#b63d00",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.40",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.40",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandD40",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "d40"
+        ]
+      },
+      "d56": {
+        "value": "#852d00",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.56",
+              "space": "hsl",
+              "filePath": "tokens/Brand/fiber.json",
+              "isSource": true,
+              "format": "hex"
+            }
+          }
+        },
+        "filePath": "tokens/Brand/fiber.json",
+        "isSource": true,
+        "original": {
+          "value": "{Colors.Brand.0}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.56",
+                "space": "hsl",
+                "filePath": "tokens/Brand/fiber.json",
+                "isSource": true
+              }
+            }
+          }
+        },
+        "name": "colorsBrandD56",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Brand",
+          "d56"
+        ]
+      }
+    }
+  },
+  "Sizing": {
+    "xxsmall": {
+      "value": "8px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-8}",
+        "type": "sizing"
+      },
+      "name": "sizingXxsmall",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "xxsmall"
+      ]
+    },
+    "xsmall": {
+      "value": "16px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-16}",
+        "type": "sizing"
+      },
+      "name": "sizingXsmall",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "xsmall"
+      ]
+    },
+    "small": {
+      "value": "32px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-32}",
+        "type": "sizing"
+      },
+      "name": "sizingSmall",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "64px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-64}",
+        "type": "sizing"
+      },
+      "name": "sizingMedium",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "128px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-128}",
+        "type": "sizing"
+      },
+      "name": "sizingLarge",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "large"
+      ]
+    },
+    "xlarge": {
+      "value": "320px",
+      "type": "sizing",
+      "filePath": "tokens/Spacing/Web.json",
+      "isSource": true,
+      "original": {
+        "value": "{Sizing.sizing-320}",
+        "type": "sizing"
+      },
+      "name": "sizingXlarge",
+      "attributes": {},
+      "path": [
+        "Sizing",
+        "xlarge"
+      ]
+    }
+  },
+  "Border Radius": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-0}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusNone",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "none"
+      ]
+    },
+    "small": {
+      "value": "4px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-4}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusSmall",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "8px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-8}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusMedium",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "16px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-16}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusLarge",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "large"
+      ]
+    },
+    "xlarge": {
+      "value": "24px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-24}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusXlarge",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "xlarge"
+      ]
+    },
+    "full": {
+      "value": "9999px",
+      "type": "borderRadius",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Radius.rounded-9999}",
+        "type": "borderRadius"
+      },
+      "name": "borderRadiusFull",
+      "attributes": {},
+      "path": [
+        "Border Radius",
+        "full"
+      ]
+    }
+  },
+  "Border Width": {
+    "small": {
+      "value": "0.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-0,5}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthSmall",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "1",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-1}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthMedium",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "1.5px",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-1,5}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthLarge",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "large"
+      ]
+    },
+    "xlarge": {
+      "value": "2",
+      "type": "borderWidth",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{Border Width.border-w-2}",
+        "type": "borderWidth"
+      },
+      "name": "borderWidthXlarge",
+      "attributes": {},
+      "path": [
+        "Border Width",
+        "xlarge"
+      ]
+    }
+  },
+  "boxshadows": {
+    "none": {
+      "value": "0 0 0 0 #0000",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-none}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsNone",
+      "attributes": {},
+      "path": [
+        "boxshadows",
+        "none"
+      ]
+    },
+    "inner": {
+      "value": "inset 0 2px 4px 0 rgba(0,0,0,0.05)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-inner}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsInner",
+      "attributes": {},
+      "path": [
+        "boxshadows",
+        "inner"
+      ]
+    },
+    "small": {
+      "value": "1px 2px 2px 0 rgba(0,0,0,0.1)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-sm}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsSmall",
+      "attributes": {},
+      "path": [
+        "boxshadows",
+        "small"
+      ]
+    },
+    "medium": {
+      "value": "0 4px 5px rgba(0,0,0,0.1)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-md}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsMedium",
+      "attributes": {},
+      "path": [
+        "boxshadows",
+        "medium"
+      ]
+    },
+    "large": {
+      "value": "0 10px 12px rgba(0,0,0,0.1)",
+      "type": "boxShadow",
+      "filePath": "tokens/Primitives/Color/Light.json",
+      "isSource": true,
+      "original": {
+        "value": "{shadow-lg}",
+        "type": "boxShadow"
+      },
+      "name": "boxshadowsLarge",
+      "attributes": {},
+      "path": [
+        "boxshadows",
+        "large"
+      ]
+    }
+  },
+  "Spacing": {
+    "padding": {
+      "xxsmall": {
+        "value": "8px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-8}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXxsmall",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xxsmall"
+        ]
+      },
+      "xsmall": {
+        "value": "16px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-16}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXsmall",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xsmall"
+        ]
+      },
+      "small": {
+        "value": "24px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-24}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingSmall",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "small"
+        ]
+      },
+      "medium": {
+        "value": "48px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Space Between.space-48}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingMedium",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "medium"
+        ]
+      },
+      "large": {
+        "value": "64px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Space Between.space-64}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingLarge",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "large"
+        ]
+      },
+      "xlarge": {
+        "value": "96px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-96}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXlarge",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xlarge"
+        ]
+      },
+      "xxlarge": {
+        "value": "128px",
+        "type": "spacing",
+        "filePath": "tokens/Spacing/Web.json",
+        "isSource": true,
+        "original": {
+          "value": "{Padding.padding-128}",
+          "type": "spacing"
+        },
+        "name": "spacingPaddingXxlarge",
+        "attributes": {},
+        "path": [
+          "Spacing",
+          "padding",
+          "xxlarge"
+        ]
+      }
+    }
+  },
+  "Heading": {
+    "Expressive": {
+      "value": "600 60px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-60}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingExpressive",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "Expressive"
+      ]
+    },
+    "Medium": {
+      "value": "600 22px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-22}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingMedium",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "Medium"
+      ]
+    },
+    "Small": {
+      "value": "500 16px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-16}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingSmall",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "Small"
+      ]
+    },
+    "xSmall": {
+      "value": "600 14px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-14}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "headingXSmall",
+      "attributes": {},
+      "path": [
+        "Heading",
+        "xSmall"
+      ]
+    }
+  },
+  "Body": {
+    "Regular": {
+      "value": "400 16px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Regular}",
+          "fontSize": "{fontSize.fontSize-16}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "bodyRegular",
+      "attributes": {},
+      "path": [
+        "Body",
+        "Regular"
+      ]
+    },
+    "Medium": {
+      "value": "500 16px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-16}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "bodyMedium",
+      "attributes": {},
+      "path": [
+        "Body",
+        "Medium"
+      ]
+    },
+    "Small": {
+      "value": "500 14px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-14}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "bodySmall",
+      "attributes": {},
+      "path": [
+        "Body",
+        "Small"
+      ]
+    }
+  },
+  "Utility": {
+    "Button": {
+      "value": "600 14px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.SemiBold}",
+          "fontSize": "{fontSize.fontSize-14}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "utilityButton",
+      "attributes": {},
+      "path": [
+        "Utility",
+        "Button"
+      ]
+    },
+    "Label": {
+      "value": "500 12px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Medium}",
+          "fontSize": "{fontSize.fontSize-12}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "utilityLabel",
+      "attributes": {},
+      "path": [
+        "Utility",
+        "Label"
+      ]
+    },
+    "Helper": {
+      "value": "400 12px/1.4 'Noto Sans'",
+      "type": "typography",
+      "filePath": "tokens/Primitives/Typography/Web.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "{fontFamilies.noto-sans}",
+          "fontWeight": "{fontWeights.Regular}",
+          "fontSize": "{fontSize.fontSize-12}",
+          "lineHeight": "{lineHeights.lineHeights-140}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "name": "utilityHelper",
+      "attributes": {},
+      "path": [
+        "Utility",
+        "Helper"
+      ]
+    }
+  }
+}

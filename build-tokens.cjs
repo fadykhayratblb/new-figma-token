@@ -6,14 +6,8 @@ const {
 const { promises } = require("node:fs");
 
 registerTransforms(StyleDictionary, {
-  expand: {
-    composition:false,
-    typography: false,
-    shadow: false,
-    border: false,
-  },
-  'ts/color/modifiers': {
-    format: 'hex',
+  "ts/color/modifiers": {
+    format: "hex",
   },
 });
 StyleDictionary.registerTransformGroup({
@@ -31,10 +25,10 @@ const componentFilter = (cat) => (token) => token.attributes.category === cat;
 
 // for each component (currently only button), filter those specific component tokens and output them
 // to the component folder where the component source code will live
-const generateComponentFiles = (tokensCategories, theme) => {
+const generateComponentFiles = (tokensCategories, theme, format, ext) => {
   return tokensCategories.map((cat) => ({
-    destination: `${cat}/${cat}-${theme.toLowerCase()}.css`,
-    format: "css/variables",
+    destination: `${cat}/${cat}-${theme.toLowerCase()}.${ext}`,
+    format: format,
     filter: coreWithoutFilter,
     options: {
       selector: ":host",
@@ -57,17 +51,81 @@ async function run() {
     platforms: {
       css: {
         transformGroup: "custom/tokens-studio",
+        buildPath: "build/css/",
         files: [
           // core/semantic tokens, e.g. for application developer
           {
             destination: "style.css",
             format: "css/variables",
-
           },
           // component tokens, e.g. for design system developer
-          ...generateComponentFiles(["fiber"], theme.name),
+          ...generateComponentFiles(
+            ["fiber"],
+            theme.name,
+            "css/variables",
+            "css"
+          ),
         ],
       },
+      js: {
+        transformGroup: "tokens-studio",
+        buildPath: "build/js/",
+        files: [
+          {
+            destination: "variables.js",
+            format: "javascript/es6",
+          },
+          ...generateComponentFiles(
+            ["fiber"],
+            theme.name,
+            "javascript/es6",
+            "js"
+          ),
+        ],
+      },
+      JSON: {
+        transformGroup: "tokens-studio",
+        buildPath: "build/json/",
+        files: [
+          {
+            destination: "variables.json",
+            format: "json",
+          },
+          ...generateComponentFiles(["fiber"], theme.name, "json", "json"),
+        ],
+      },
+      android: {
+        transforms: [
+          "attribute/cti",
+          "name/cti/snake",
+          "color/hex",
+          "size/remToSp",
+          "size/remToDp",
+          "asset/path",
+          "content/quote",
+          "color/css"
+        ],
+        buildPath: "build/android/",
+        files: [
+          {
+            destination: "style_dictionary_colors.xml",
+            format: "android/resources",
+          },
+          ...generateComponentFiles(["fiber"], theme.name, "android/resources", "xml"),
+
+        ],
+      },
+      scss:{
+        transformGroup: "tokens-studio",
+        buildPath: "build/scss/",
+        files: [
+          {
+            destination: "variables.scss",
+            format: "scss/variables",
+          },
+          ...generateComponentFiles(["fiber"], theme.name, "scss/variables", "scss"),
+        ],
+      }
     },
   }));
 

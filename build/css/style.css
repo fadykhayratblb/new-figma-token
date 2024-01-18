@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 Jan 2024 14:07:35 GMT
+ * Generated on Thu, 18 Jan 2024 13:04:42 GMT
  */
 
 :root {
@@ -225,11 +225,11 @@
   --border-width-xlarge: 2;
   --border-style-border-solid: 0.5px solid #ebebeb;
   --border-style-border-dashed: 0.5px dashed #d6d6d6;
-  --container-container-xl: [object Object]; /* xl (1280px) */
-  --container-container-2xl: [object Object]; /* 2xl (1536px) */
-  --container-container-l: [object Object]; /* lg (1024px) */
-  --container-container-md: [object Object]; /* md (768px) */
-  --container-container-sm: [object Object]; /* sm (640px) */
+  --container-container-xl-max-width: 1280;
+  --container-container-2xl-max-width: 1536;
+  --container-container-l-max-width: 1024;
+  --container-container-md-max-width: 768;
+  --container-container-sm-max-width: 640;
   --space-between-space-4: 4px;
   --space-between-space-8: 8px;
   --space-between-space-16: 16px;

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated
+-->
+<resources>
+  <string name="colors_absolute_light">#000</string>
+  <string name="colors_absolute_dark">#000</string>
+  <string name="colors_info_background">#2196F3</string>
+  <string name="colors_info_primary">#2196F3</string>
+  <string name="colors_info_text">#2196F3</string>
+  <string name="colors_success_background">#198038</string>
+  <string name="colors_success_primary">#198038</string>
+  <string name="colors_success_text">#198038</string>
+  <string name="colors_brand_background">#ff7630</string>
+  <string name="colors_brand_primary">#ff7630</string>
+  <string name="colors_brand_text">#ff7630</string>
+  <string name="colors_neutral_background">#000</string>
+  <string name="colors_neutral_primary">#000</string>
+  <string name="colors_neutral_text">#000</string>
+  <string name="colors_brand_0">#ff7630</string>
+  <string name="colors_brand_l88">#ff7630</string>
+  <string name="colors_brand_l72">#ff7630</string>
+  <string name="colors_brand_l24">#ff7630</string>
+  <string name="colors_brand_d40">#ff7630</string>
+  <string name="colors_brand_d56">#ff7630</string>
+  <string name="sizing_xxsmall">8</string>
+  <string name="sizing_xsmall">16</string>
+  <string name="sizing_small">32</string>
+  <string name="sizing_medium">64</string>
+  <string name="sizing_large">128</string>
+  <string name="sizing_xlarge">320</string>
+  <string name="border_radius_null">0</string>
+  <string name="border_radius_small">4</string>
+  <string name="border_radius_medium">8</string>
+  <string name="border_radius_large">16</string>
+  <string name="border_radius_xlarge">24</string>
+  <string name="border_radius_full">9999</string>
+  <string name="border_width_small">0.5</string>
+  <string name="border_width_medium">1</string>
+  <string name="border_width_large">1.5</string>
+  <string name="border_width_xlarge">2</string>
+  <string name="boxshadows_copy_none">[object Object]</string>
+  <string name="boxshadows_copy_inner">[object Object]</string>
+  <string name="boxshadows_copy_small">[object Object]</string>
+  <string name="boxshadows_copy_medium">[object Object]</string>
+  <string name="boxshadows_copy_large">[object Object]</string>
+  <string name="heading_expressive">[object Object]</string>
+  <string name="heading_medium">[object Object]</string>
+  <string name="heading_small">[object Object]</string>
+  <string name="heading_x_small">[object Object]</string>
+  <string name="body_regular">[object Object]</string>
+  <string name="body_medium">[object Object]</string>
+  <string name="body_small">[object Object]</string>
+  <string name="utility_button">[object Object]</string>
+  <string name="utility_label">[object Object]</string>
+  <string name="utility_helper">[object Object]</string>
+  <string name="spacing_padding_xxsmall">8</string>
+  <string name="spacing_padding_xsmall">16</string>
+  <string name="spacing_padding_small">24</string>
+  <string name="spacing_padding_medium">48</string>
+  <string name="spacing_padding_large">64</string>
+  <string name="spacing_padding_xlarge">96</string>
+  <string name="spacing_padding_xxlarge">128</string>
+  
+</resources>
