@@ -6,7 +6,7 @@
     "Primitives/Color/Dark",
     "Primitives/Typography/Web",
     "Primitives/Typography/Mobile",
-    "Spacing/Web",
-    "Spacing/Mobile"
+    "Primitives/Spacing/Web",
+    "Primitives/Spacing/Mobile"
   ]
 }
