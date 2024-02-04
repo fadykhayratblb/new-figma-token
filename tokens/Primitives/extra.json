@@ -47,8 +47,8 @@
     "border-solid": {
       "value": {
         "style": "solid",
-        "width": "{Border Width.border-w-0,5}",
-        "color": "{Colors.Black.gray-36}"
+        "width": "{Border Width.border-w-1,5}",
+        "color": "{Colors.Black.gray-28}"
       },
       "type": "border"
     },
