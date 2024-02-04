@@ -8,7 +8,8 @@
       "Primitives/Color/Light": "enabled",
       "Brand/fiber": "enabled",
       "Primitives/Typography/Web": "enabled",
-      "Primitives/Spacing/Web": "enabled"
+      "Primitives/Spacing/Web": "enabled",
+      "Brand/nylon": "disabled"
     },
     "$figmaVariableReferences": {
       "Colors.Absolute.light": "7fa28b6d825c59bddfd7af9e3515a44c85ad313b",
@@ -39,7 +40,8 @@
       "Primitives/Color/Dark": "enabled",
       "Brand/fiber": "enabled",
       "Primitives/Typography/Web": "enabled",
-      "Primitives/Spacing/Web": "enabled"
+      "Primitives/Spacing/Web": "enabled",
+      "Brand/nylon": "disabled"
     },
     "$figmaVariableReferences": {
       "Colors.Absolute.light": "7fa28b6d825c59bddfd7af9e3515a44c85ad313b",

@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "Core",
     "Brand/fiber",
+    "Brand/nylon",
     "Primitives/Color/Light",
     "Primitives/Color/Dark",
     "Primitives/Typography/Web",
