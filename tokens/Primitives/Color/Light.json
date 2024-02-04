@@ -224,5 +224,23 @@
       "value": "{Border Radius.rounded-9999}",
       "type": "borderRadius"
     }
+  },
+  "Border Style-copy": {
+    "border-solid": {
+      "value": {
+        "style": "solid",
+        "width": "{Border Width.border-w-0,5}",
+        "color": "{Colors.Black.gray-36}"
+      },
+      "type": "border"
+    },
+    "border-dashed": {
+      "value": {
+        "style": "dashed",
+        "color": "{Colors.Black.gray-84}",
+        "width": "{Border Width.border-w-0,5}"
+      },
+      "type": "border"
+    }
   }
 }

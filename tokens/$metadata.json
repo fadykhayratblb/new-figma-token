@@ -5,9 +5,7 @@
     "Brand/nylon",
     "Primitives/Color/Light",
     "Primitives/Color/Dark",
-    "Primitives/Typography/Web",
-    "Primitives/Typography/Mobile",
-    "Primitives/Spacing/Web",
-    "Primitives/Spacing/Mobile"
+    "Primitives/Typography",
+    "Primitives/Spacing"
   ]
 }

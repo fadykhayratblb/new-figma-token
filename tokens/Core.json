@@ -1165,7 +1165,7 @@
       "value": {
         "style": "solid",
         "width": "{Border Width.border-w-0,5}",
-        "color": "{Colors.Black.gray-92}"
+        "color": "{Colors.Black.gray-36}"
       },
       "type": "border"
     },
