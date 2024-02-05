@@ -28,9 +28,9 @@
     },
     "Small": {
       "value": {
-        "fontFamily": "{fontFamilies.noto-sans}",
+        "fontFamily": "{Brand Font}",
         "fontWeight": "{fontWeights.Medium}",
-        "fontSize": "{fontSize.fontSize-16}",
+        "fontSize": "{Base font size}",
         "lineHeight": "{lineHeights.lineHeights-140}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",

@@ -2,7 +2,7 @@
   "Colors": {
     "Brand": {
       "0": {
-        "value": "#3477ff",
+        "value": "#ff7f33",
         "type": "color",
         "description": "\nNaming Depends on HSl ( L ) nummber\n"
       },
@@ -73,5 +73,21 @@
         }
       }
     }
+  },
+  "Brand Font": {
+    "value": "{fontFamilies.noto-sans}",
+    "type": "fontFamilies"
+  },
+  "Base Sizing": {
+    "value": "{Sizing.sizing-8}",
+    "type": "sizing"
+  },
+  "Base Padding": {
+    "value": "{Padding.padding-8}",
+    "type": "spacing"
+  },
+  "Base font size": {
+    "value": "{fontSize.fontSize-16}",
+    "type": "fontSizes"
   }
 }
