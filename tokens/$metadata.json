@@ -6,7 +6,8 @@
     "Primitives/Color/Light",
     "Primitives/Color/Dark",
     "Primitives/Typography",
-    "Primitives/Spacing",
+    "Primitives/Whitespace/perfect fourth",
+    "Primitives/Whitespace/major third",
     "Primitives/extra"
   ]
 }

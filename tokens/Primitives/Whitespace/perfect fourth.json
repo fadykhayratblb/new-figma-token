@@ -1,0 +1,122 @@
+{
+  "scale": {
+    "0": {
+      "value": "{scalebase.1} / 1.333",
+      "type": "sizing"
+    },
+    "1": {
+      "value": "{Base Sizing}",
+      "type": "sizing"
+    },
+    "2": {
+      "value": "{scalebase.1} * 1.333",
+      "type": "sizing"
+    },
+    "3": {
+      "value": "{scalebase.2} *1.333",
+      "type": "sizing"
+    },
+    "4": {
+      "value": "{scalebase.3} *1.333",
+      "type": "sizing"
+    },
+    "5": {
+      "value": "{scalebase.4} *1.333",
+      "type": "sizing"
+    },
+    "-1": {
+      "value": "{scalebase.0} / 1.333",
+      "type": "sizing"
+    }
+  },
+  "size": {
+    "xxsmall": {
+      "value": "{scalebase.-1}",
+      "type": "sizing"
+    },
+    "xsmall": {
+      "value": "{scalebase.0}",
+      "type": "sizing"
+    },
+    "small": {
+      "value": "{scalebase.1}",
+      "type": "sizing"
+    },
+    "medium": {
+      "value": "{scalebase.2}",
+      "type": "sizing"
+    },
+    "large": {
+      "value": "{scalebase.3}",
+      "type": "sizing"
+    },
+    "xlarge": {
+      "value": "{scalebase.4}",
+      "type": "sizing"
+    },
+    "xxlarge": {
+      "value": "{scalebase.5}",
+      "type": "sizing"
+    }
+  },
+  "scalebase": {
+    "0": {
+      "value": "{scalebase.1} /1.333",
+      "type": "spacing"
+    },
+    "1": {
+      "value": "{Base Padding}",
+      "type": "spacing"
+    },
+    "2": {
+      "value": "{scalebase.1} * 1.333",
+      "type": "spacing"
+    },
+    "3": {
+      "value": "{scalebase.2} *1.333",
+      "type": "spacing"
+    },
+    "4": {
+      "value": "{scalebase.3} *1.333",
+      "type": "spacing"
+    },
+    "5": {
+      "value": "{scalebase.4} *1.333",
+      "type": "spacing"
+    },
+    "-1": {
+      "value": "{scalebase.0} /1.333",
+      "type": "spacing"
+    }
+  },
+  "padding": {
+    "xxsmall": {
+      "value": "{scalebase.-1}",
+      "type": "spacing"
+    },
+    "xsmall": {
+      "value": "{scalebase.0}",
+      "type": "spacing"
+    },
+    "small": {
+      "value": "{scalebase.1}",
+      "type": "spacing"
+    },
+    "medium": {
+      "value": "{scalebase.2}",
+      "type": "spacing"
+    },
+    "large": {
+      "value": "{scalebase.3}",
+      "type": "spacing"
+    },
+    "xlarge": {
+      "value": "{scalebase.4}",
+      "type": "spacing"
+    },
+    "xxlarge": {
+      "value": "{scalebase.5}",
+      "type": "spacing"
+    }
+  }
+}
