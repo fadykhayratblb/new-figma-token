@@ -72,8 +72,8 @@
       }
     }
   },
-  "Brand Font": {
-    "value": "{fontFamilies.noto-sans}",
+  "brand font": {
+    "value": "Monomaniac One",
     "type": "fontFamilies"
   },
   "Base Sizing": {
@@ -84,7 +84,7 @@
     "value": "{padding.padding-16}",
     "type": "spacing"
   },
-  "Base font size": {
+  "font size base": {
     "value": "{fontSize.fontSize-32}",
     "type": "fontSizes"
   }
