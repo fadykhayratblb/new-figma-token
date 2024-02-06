@@ -32,24 +32,11 @@
     "type": "fontWeights"
   },
   "Heading": {
-    "expressive": {
+    "xSmall": {
       "value": {
         "fontFamily": "{brand font}",
         "fontWeight": "{600}",
-        "fontSize": "{xxlarge}",
-        "lineHeight": "{140}",
-        "letterSpacing": "{letter-0}",
-        "paragraphSpacing": "{paragraph-0}",
-        "textDecoration": "{decoration-none}",
-        "textCase": "{case-none}"
-      },
-      "type": "typography"
-    },
-    "Medium": {
-      "value": {
-        "fontFamily": "{brand font}",
-        "fontWeight": "{600}",
-        "fontSize": "{medium}",
+        "fontSize": "{xsmall}",
         "lineHeight": "{140}",
         "letterSpacing": "{letter-0}",
         "paragraphSpacing": "{paragraph-0}",
@@ -71,11 +58,24 @@
       },
       "type": "typography"
     },
-    "xSmall": {
+    "Medium": {
       "value": {
         "fontFamily": "{brand font}",
         "fontWeight": "{600}",
-        "fontSize": "{xsmall}",
+        "fontSize": "{medium}",
+        "lineHeight": "{140}",
+        "letterSpacing": "{letter-0}",
+        "paragraphSpacing": "{paragraph-0}",
+        "textDecoration": "{decoration-none}",
+        "textCase": "{case-none}"
+      },
+      "type": "typography"
+    },
+    "expressive": {
+      "value": {
+        "fontFamily": "{brand font}",
+        "fontWeight": "{600}",
+        "fontSize": "{xxlarge}",
         "lineHeight": "{140}",
         "letterSpacing": "{letter-0}",
         "paragraphSpacing": "{paragraph-0}",
@@ -86,6 +86,19 @@
     }
   },
   "Body": {
+    "Small": {
+      "value": {
+        "fontFamily": "{brand font}",
+        "fontWeight": "{500}",
+        "fontSize": "{xsmall}",
+        "lineHeight": "{140}",
+        "letterSpacing": "{letter-0}",
+        "paragraphSpacing": "{paragraph-0}",
+        "textDecoration": "{decoration-none}",
+        "textCase": "{case-none}"
+      },
+      "type": "typography"
+    },
     "Regular": {
       "value": {
         "fontFamily": "{brand font}",
@@ -104,19 +117,6 @@
         "fontFamily": "{brand font}",
         "fontWeight": "{500}",
         "fontSize": "{medium}",
-        "lineHeight": "{140}",
-        "letterSpacing": "{letter-0}",
-        "paragraphSpacing": "{paragraph-0}",
-        "textDecoration": "{decoration-none}",
-        "textCase": "{case-none}"
-      },
-      "type": "typography"
-    },
-    "Small": {
-      "value": {
-        "fontFamily": "{brand font}",
-        "fontWeight": "{500}",
-        "fontSize": "{small}",
         "lineHeight": "{140}",
         "letterSpacing": "{letter-0}",
         "paragraphSpacing": "{paragraph-0}",
