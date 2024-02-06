@@ -1,74 +1,72 @@
 {
-  "Colors": {
-    "Brand": {
-      "0": {
-        "value": "#3477ff",
-        "type": "color",
-        "description": "\nNaming Depends on HSl ( L ) nummber\n"
-      },
-      "l88": {
-        "value": "{Colors.Brand.0}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.88",
-              "space": "lch"
-            }
+  "brand": {
+    "0": {
+      "value": "#3477ff",
+      "type": "color",
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "l88": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "s0.s88",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "l72": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "s0.7s2",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "l24": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "s0.s2s4",
+            "space": "hsl"
           }
         }
       },
-      "l72": {
-        "value": "{Colors.Brand.0}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.72",
-              "space": "hsl"
-            }
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "d40": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "s0.s40",
+            "space": "hsl"
           }
         }
-      },
-      "l24": {
-        "value": "{Colors.Brand.0}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.24",
-              "space": "hsl"
-            }
-          }
-        },
-        "description": "\nNaming Depends on HSl ( L ) nummber\n"
-      },
-      "d40": {
-        "value": "{Colors.Brand.0}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.40",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "d56": {
-        "value": "{Colors.Brand.0}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.56",
-              "space": "hsl"
-            }
+      }
+    },
+    "d56": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "s0.5s6",
+            "space": "hsl"
           }
         }
       }
@@ -79,11 +77,11 @@
     "type": "fontFamilies"
   },
   "Base Sizing": {
-    "value": "{Sizing.sizing-16}",
+    "value": "{sizing.sizing-16}",
     "type": "sizing"
   },
   "Base Padding": {
-    "value": "{Padding.padding-16}",
+    "value": "{padding.padding-16}",
     "type": "spacing"
   },
   "Base font size": {
