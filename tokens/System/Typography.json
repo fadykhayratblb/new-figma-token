@@ -30,7 +30,7 @@
       "value": {
         "fontFamily": "{Brand Font}",
         "fontWeight": "{fontWeights.Medium}",
-        "fontSize": "{Base font size}",
+        "fontSize": "{font size base}",
         "lineHeight": "{lineHeights.lineHeights-140}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
