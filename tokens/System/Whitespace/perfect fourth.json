@@ -1,7 +1,7 @@
 {
   "scale": {
     "0": {
-      "value": "{scalebase.1} / 1.333",
+      "value": "1.333",
       "type": "sizing"
     },
     "1": {
@@ -9,11 +9,11 @@
       "type": "sizing"
     },
     "2": {
-      "value": "{scalebase.1} * 1.333",
+      "value": "{scalebase.1} + {scalebase.1}",
       "type": "sizing"
     },
     "3": {
-      "value": "{scalebase.2} *1.333",
+      "value": "{scale.2} + 2",
       "type": "sizing"
     },
     "4": {
@@ -39,15 +39,15 @@
       "type": "sizing"
     },
     "small": {
-      "value": "{scalebase.1}",
+      "value": "{Base Sizing}",
       "type": "sizing"
     },
     "medium": {
-      "value": "{scalebase.2}",
+      "value": "{size.small} + {scale.0}",
       "type": "sizing"
     },
     "large": {
-      "value": "{scalebase.3}",
+      "value": "{size.medium} * {scale.0}",
       "type": "sizing"
     },
     "xlarge": {

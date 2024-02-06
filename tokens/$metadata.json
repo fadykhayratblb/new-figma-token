@@ -3,11 +3,11 @@
     "Core",
     "Brand/fiber",
     "Brand/nylon",
-    "Primitives/Color/Light",
-    "Primitives/Color/Dark",
-    "Primitives/Typography",
-    "Primitives/Whitespace/perfect fourth",
-    "Primitives/Whitespace/major third",
-    "Primitives/extra"
+    "System/Color/Light",
+    "System/Color/Dark",
+    "System/Typography",
+    "System/Whitespace/perfect fourth",
+    "System/Whitespace/major third",
+    "System/extra"
   ]
 }
