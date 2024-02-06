@@ -114,7 +114,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.88",
+            "value": "0.88",
             "space": "lch"
           }
         }
@@ -127,7 +127,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.72",
+            "value": "0.72",
             "space": "hsl"
           }
         }
@@ -140,7 +140,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.24",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -154,7 +154,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
@@ -167,7 +167,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.56",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -186,7 +186,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.12",
+            "value": "0.12",
             "space": "hsl"
           }
         }
@@ -199,7 +199,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.20",
+            "value": "0.20",
             "space": "hsl"
           }
         }
@@ -212,7 +212,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.28",
+            "value": "0.28",
             "space": "hsl"
           }
         }
@@ -225,7 +225,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.36",
+            "value": "0.36",
             "space": "hsl"
           }
         }
@@ -238,7 +238,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.44",
+            "value": "0.44",
             "space": "lch"
           }
         }
@@ -251,7 +251,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.64",
+            "value": "0.64",
             "space": "hsl"
           }
         }
@@ -264,7 +264,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.72",
+            "value": "0.72",
             "space": "hsl"
           }
         }
@@ -277,7 +277,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.84",
+            "value": "0.84",
             "space": "hsl"
           }
         }
@@ -290,7 +290,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.92",
+            "value": "0.92",
             "space": "hsl"
           }
         }
@@ -303,7 +303,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "1letter-00",
+            "value": "100",
             "space": "hsl"
           }
         }
@@ -323,7 +323,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.88",
+            "value": "0.88",
             "space": "lch"
           }
         }
@@ -336,7 +336,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.72",
+            "value": "0.72",
             "space": "hsl"
           }
         }
@@ -349,7 +349,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.24",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -363,7 +363,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
@@ -376,7 +376,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.56",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -396,7 +396,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.88",
+            "value": "0.88",
             "space": "lch"
           }
         }
@@ -409,7 +409,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.72",
+            "value": "0.72",
             "space": "hsl"
           }
         }
@@ -422,7 +422,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.24",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -436,7 +436,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
@@ -449,7 +449,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.56",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -469,7 +469,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.88",
+            "value": "0.88",
             "space": "lch"
           }
         }
@@ -482,7 +482,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.72",
+            "value": "0.72",
             "space": "hsl"
           }
         }
@@ -495,7 +495,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.24",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -509,7 +509,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
@@ -522,7 +522,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.56",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -542,7 +542,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.88",
+            "value": "0.88",
             "space": "lch"
           }
         }
@@ -555,7 +555,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.72",
+            "value": "0.72",
             "space": "hsl"
           }
         }
@@ -568,7 +568,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.24",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -582,7 +582,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
@@ -595,7 +595,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.56",
+            "value": "0.56",
             "space": "hsl"
           }
         }

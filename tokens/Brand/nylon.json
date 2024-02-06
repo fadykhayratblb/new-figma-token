@@ -12,7 +12,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.88",
+            "value": "0.88",
             "space": "lch"
           }
         }
@@ -25,7 +25,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.72",
+            "value": "0.72",
             "space": "hsl"
           }
         }
@@ -38,7 +38,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "letter-0.24",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -52,7 +52,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
@@ -65,7 +65,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "letter-0.56",
+            "value": "0.56",
             "space": "hsl"
           }
         }
