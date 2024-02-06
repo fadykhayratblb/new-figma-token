@@ -1,7 +1,7 @@
 {
   "scale": {
     "0": {
-      "value": "1.333",
+      "value": "{scalebase.1} / 1.250",
       "type": "sizing"
     },
     "1": {
@@ -9,23 +9,23 @@
       "type": "sizing"
     },
     "2": {
-      "value": "{scalebase.1} + {scalebase.1}",
+      "value": "{scalebase.1} *  1.250",
       "type": "sizing"
     },
     "3": {
-      "value": "{scale.2} + 2",
+      "value": "{scalebase.2} * 1.250",
       "type": "sizing"
     },
     "4": {
-      "value": "{scalebase.3} *1.333",
+      "value": "{scalebase.3} * 1.250",
       "type": "sizing"
     },
     "5": {
-      "value": "{scalebase.4} *1.333",
+      "value": "{scalebase.4} * 1.250",
       "type": "sizing"
     },
     "-1": {
-      "value": "{scalebase.0} / 1.333",
+      "value": "{scalebase.0} /  1.250",
       "type": "sizing"
     }
   },
@@ -39,15 +39,15 @@
       "type": "sizing"
     },
     "small": {
-      "value": "{Base Sizing}",
+      "value": "{scalebase.1}",
       "type": "sizing"
     },
     "medium": {
-      "value": "{size.small} + {scale.0}",
+      "value": "{scalebase.2}",
       "type": "sizing"
     },
     "large": {
-      "value": "{size.medium} * {scale.0}",
+      "value": "{scalebase.3}",
       "type": "sizing"
     },
     "xlarge": {
@@ -61,7 +61,7 @@
   },
   "scalebase": {
     "0": {
-      "value": "{scalebase.1} /1.333",
+      "value": "{scalebase.1} / 1.250",
       "type": "spacing"
     },
     "1": {
@@ -69,23 +69,23 @@
       "type": "spacing"
     },
     "2": {
-      "value": "{scalebase.1} * 1.333",
+      "value": "{scalebase.1} *  1.250",
       "type": "spacing"
     },
     "3": {
-      "value": "{scalebase.2} *1.333",
+      "value": "{scalebase.2} *  1.250",
       "type": "spacing"
     },
     "4": {
-      "value": "{scalebase.3} *1.333",
+      "value": "{scalebase.3} * 1.250",
       "type": "spacing"
     },
     "5": {
-      "value": "{scalebase.4} *1.333",
+      "value": "{scalebase.4} * 1.250",
       "type": "spacing"
     },
     "-1": {
-      "value": "{scalebase.0} /1.333",
+      "value": "{scalebase.0} / 1.250",
       "type": "spacing"
     }
   },

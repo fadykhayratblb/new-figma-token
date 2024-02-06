@@ -210,13 +210,13 @@
     }
   },
   "blue": {
-    "blue0": {
+    "0": {
       "value": "#2196F3",
       "type": "color",
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "l88": {
-      "value": "{blue.blue0}",
+      "value": "{blue.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -229,7 +229,7 @@
       }
     },
     "l72": {
-      "value": "{blue.blue0}",
+      "value": "{blue.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -242,7 +242,7 @@
       }
     },
     "l24": {
-      "value": "{blue.blue0}",
+      "value": "{blue.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -256,7 +256,7 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "d40": {
-      "value": "{blue.blue0}",
+      "value": "{blue.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -269,13 +269,13 @@
       }
     },
     "d56": {
-      "value": "{Colors.Blue.0}",
+      "value": "{blue.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.5s6",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -288,130 +288,130 @@
       "type": "color"
     },
     "gray-12": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s1s2",
+            "value": "0.12",
             "space": "hsl"
           }
         }
       }
     },
     "gray-20": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s20",
+            "value": "0.20",
             "space": "hsl"
           }
         }
       }
     },
     "gray-28": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s2s8",
+            "value": "0.28",
             "space": "hsl"
           }
         }
       }
     },
     "gray-36": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s3s6",
+            "value": "0.36",
             "space": "hsl"
           }
         }
       }
     },
     "gray-44": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s44",
+            "value": "0.44",
             "space": "lch"
           }
         }
       }
     },
     "gray-64": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s6s4",
+            "value": "0.64",
             "space": "hsl"
           }
         }
       }
     },
     "gray-72": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.7s2",
+            "value": "0.72",
             "space": "hsl"
           }
         }
       }
     },
     "gray-84": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s8s4",
+            "value": "0.84",
             "space": "hsl"
           }
         }
       }
     },
     "gray-92": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.9s2",
+            "value": "0.92",
             "space": "hsl"
           }
         }
       }
     },
     "gray-100": {
-      "value": "{Colors.Black.black}",
+      "value": "{black.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s1s00",
+            "value": "100",
             "space": "hsl"
           }
         }
@@ -425,39 +425,39 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "l88": {
-      "value": "{Colors.Red.0}",
+      "value": "{red.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s88",
+            "value": "0.88",
             "space": "lch"
           }
         }
       }
     },
     "l72": {
-      "value": "{Colors.Red.0}",
+      "value": "{red.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.7s2",
+            "value": "0.72",
             "space": "hsl"
           }
         }
       }
     },
     "l24": {
-      "value": "{Colors.Red.0}",
+      "value": "{red.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s2s4",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -465,26 +465,26 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "d40": {
-      "value": "{Colors.Red.0}",
+      "value": "{red.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.s40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
       }
     },
     "d56": {
-      "value": "{Colors.Red.0}",
+      "value": "{red.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.5s6",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -498,39 +498,39 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "l88": {
-      "value": "{Colors.Orange.0}",
+      "value": "{orange.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s88",
+            "value": "0.88",
             "space": "lch"
           }
         }
       }
     },
     "l72": {
-      "value": "{Colors.Orange.0}",
+      "value": "{orange.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.7s2",
+            "value": "0.72",
             "space": "hsl"
           }
         }
       }
     },
     "l24": {
-      "value": "{Colors.Orange.0}",
+      "value": "{orange.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s2s4",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -538,26 +538,26 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "d40": {
-      "value": "{Colors.Orange.0}",
+      "value": "{orange.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.s40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
       }
     },
     "d56": {
-      "value": "{Colors.Orange.0}",
+      "value": "{orange.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.5s6",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -571,39 +571,39 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "l88": {
-      "value": "{Colors.Green.0}",
+      "value": "{green.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s88",
+            "value": "0.88",
             "space": "lch"
           }
         }
       }
     },
     "l72": {
-      "value": "{Colors.Green.0}",
+      "value": "{green.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.7s2",
+            "value": "0.72",
             "space": "hsl"
           }
         }
       }
     },
     "l24": {
-      "value": "{Colors.Green.0}",
+      "value": "{green.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s2s4",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -611,26 +611,26 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "d40": {
-      "value": "{Colors.Green.0}",
+      "value": "{green.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.s40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
       }
     },
     "d56": {
-      "value": "{Colors.Green.0}",
+      "value": "{green.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.5s6",
+            "value": "0.56",
             "space": "hsl"
           }
         }
@@ -644,39 +644,39 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "l88": {
-      "value": "{Colors.Yellow.0}",
+      "value": "{yellow.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s88",
+            "value": "0.88",
             "space": "lch"
           }
         }
       }
     },
     "l72": {
-      "value": "{Colors.Yellow.0}",
+      "value": "{yellow.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.7s2",
+            "value": "0.72",
             "space": "hsl"
           }
         }
       }
     },
     "l24": {
-      "value": "{Colors.Yellow.0}",
+      "value": "{yellow.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "s0.s2s4",
+            "value": "0.24",
             "space": "hsl"
           }
         }
@@ -684,26 +684,26 @@
       "description": "\nNaming Depends on HSl ( L ) nummber\n"
     },
     "d40": {
-      "value": "{Colors.Yellow.0}",
+      "value": "{yellow.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.s40",
+            "value": "0.40",
             "space": "hsl"
           }
         }
       }
     },
     "d56": {
-      "value": "{Colors.Yellow.0}",
+      "value": "{yellow.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "s0.5s6",
+            "value": "0.56",
             "space": "hsl"
           }
         }

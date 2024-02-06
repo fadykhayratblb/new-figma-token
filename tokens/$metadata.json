@@ -6,8 +6,8 @@
     "System/Color/Light",
     "System/Color/Dark",
     "System/Typography",
-    "System/Whitespace/perfect fourth",
     "System/Whitespace/major third",
+    "System/Whitespace/perfect fourth",
     "System/extra"
   ]
 }
