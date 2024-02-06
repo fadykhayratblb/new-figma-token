@@ -1,0 +1,540 @@
+{
+  "blue": {
+    "0": {
+      "value": "#2196F3",
+      "type": "color",
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "l88": {
+      "value": "{blue.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.88",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "l72": {
+      "value": "{blue.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.72",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "l24": {
+      "value": "{blue.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.24",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "d40": {
+      "value": "{blue.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.40",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "d56": {
+      "value": "{blue.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.56",
+            "space": "hsl"
+          }
+        }
+      }
+    }
+  },
+  "black": {
+    "black": {
+      "value": "#000",
+      "type": "color"
+    },
+    "gray-12": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.12",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-20": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.20",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-28": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.28",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-36": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.36",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-44": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.44",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "gray-64": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.64",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-72": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.72",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-84": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.84",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-92": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.92",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "gray-100": {
+      "value": "{black.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "100",
+            "space": "hsl"
+          }
+        }
+      }
+    }
+  },
+  "red": {
+    "0": {
+      "value": "#DA1E28",
+      "type": "color",
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "l88": {
+      "value": "{red.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.88",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "l72": {
+      "value": "{red.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.72",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "l24": {
+      "value": "{red.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.24",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "d40": {
+      "value": "{red.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.40",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "d56": {
+      "value": "{red.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.56",
+            "space": "hsl"
+          }
+        }
+      }
+    }
+  },
+  "orange": {
+    "0": {
+      "value": "#ff5e36",
+      "type": "color",
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "l88": {
+      "value": "{orange.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.88",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "l72": {
+      "value": "{orange.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.72",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "l24": {
+      "value": "{orange.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.24",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "d40": {
+      "value": "{orange.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.40",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "d56": {
+      "value": "{orange.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.56",
+            "space": "hsl"
+          }
+        }
+      }
+    }
+  },
+  "green": {
+    "0": {
+      "value": "#198038",
+      "type": "color",
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "l88": {
+      "value": "{green.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.88",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "l72": {
+      "value": "{green.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.72",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "l24": {
+      "value": "{green.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.24",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "d40": {
+      "value": "{green.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.40",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "d56": {
+      "value": "{green.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.56",
+            "space": "hsl"
+          }
+        }
+      }
+    }
+  },
+  "yellow": {
+    "0": {
+      "value": "#e6b919",
+      "type": "color",
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "l88": {
+      "value": "{yellow.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.88",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "l72": {
+      "value": "{yellow.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.72",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "l24": {
+      "value": "{yellow.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.24",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    },
+    "d40": {
+      "value": "{yellow.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.40",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "d56": {
+      "value": "{yellow.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.56",
+            "space": "hsl"
+          }
+        }
+      }
+    }
+  },
+  "container": {
+    "container-xl": {
+      "value": {
+        "maxWidth": "1280"
+      },
+      "type": "composition",
+      "description": "xl (1280px)"
+    },
+    "container-2xl": {
+      "value": {
+        "maxWidth": "1536"
+      },
+      "type": "composition",
+      "description": "2xl (1536px)"
+    },
+    "container-l": {
+      "value": {
+        "maxWidth": "1024"
+      },
+      "type": "composition",
+      "description": "lg (1024px)"
+    },
+    "container-md": {
+      "value": {
+        "maxWidth": "768"
+      },
+      "type": "composition",
+      "description": "md (768px)"
+    },
+    "container-sm": {
+      "value": {
+        "maxWidth": "640"
+      },
+      "type": "composition",
+      "description": "sm (640px)"
+    }
+  }
+}

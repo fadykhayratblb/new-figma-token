@@ -167,16 +167,16 @@
       "type": "typography"
     }
   },
-  "small": {
-    "value": "{font size base}",
-    "type": "fontSizes"
-  },
   "xxsmall": {
     "value": "{xsmall} / 1.333",
     "type": "fontSizes"
   },
   "xsmall": {
     "value": "{small} / 1.333",
+    "type": "fontSizes"
+  },
+  "small": {
+    "value": "{font size base}",
     "type": "fontSizes"
   },
   "medium": {

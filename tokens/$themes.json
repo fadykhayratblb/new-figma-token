@@ -4,8 +4,8 @@
     "name": "Nylon",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core": "source",
-      "Brand/nylon": "enabled"
+      "Brand/nylon": "enabled",
+      "Helpers": "source"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:523:39",
@@ -26,8 +26,8 @@
     "name": "Fiber",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core": "source",
-      "Brand/fiber": "enabled"
+      "Brand/fiber": "enabled",
+      "Helpers": "source"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:523:39",
@@ -49,7 +49,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Brand/fiber": "source",
-      "System/Typography/perfect fourth": "enabled"
+      "System/Typography/perfect fourth": "enabled",
+      "Helpers": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:523:48",
     "$figmaModeId": "523:2",
@@ -62,7 +63,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Brand/fiber": "source",
-      "System/Whitespace/perfect fourth": "enabled"
+      "System/Whitespace/perfect fourth": "enabled",
+      "Helpers": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:523:49",
     "$figmaModeId": "523:3",
@@ -89,9 +91,9 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core": "source",
       "System/Color/Light": "enabled",
-      "Brand/fiber": "source"
+      "Brand/fiber": "source",
+      "Helpers": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:523:64",
     "$figmaModeId": "523:4",
@@ -118,9 +120,9 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core": "source",
       "System/Color/Dark": "enabled",
-      "Brand/fiber": "source"
+      "Brand/fiber": "source",
+      "Helpers": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:523:64",
     "$figmaModeId": "523:5",
@@ -148,7 +150,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Brand/fiber": "source",
-      "System/Whitespace/major third": "enabled"
+      "System/Whitespace/major third": "enabled",
+      "Helpers": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:523:49",
     "$figmaModeId": "523:6",
@@ -176,7 +179,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Brand/fiber": "source",
-      "System/Typography/major third": "enabled"
+      "System/Typography/major third": "enabled",
+      "Helpers": "disabled"
     },
     "group": "Typography",
     "$figmaCollectionId": "VariableCollectionId:523:48",

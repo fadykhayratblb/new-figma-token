@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "Core",
+    "Helpers",
     "Brand/fiber",
     "Brand/nylon",
     "System/Color/Light",

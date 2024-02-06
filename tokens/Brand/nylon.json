@@ -81,7 +81,7 @@
     "type": "sizing"
   },
   "padding base": {
-    "value": "24",
+    "value": "32",
     "type": "spacing"
   },
   "font size base": {
