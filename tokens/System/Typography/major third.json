@@ -194,5 +194,21 @@
   "xxlarge": {
     "value": "{xlarge} * 1.250",
     "type": "fontSizes"
+  },
+  "letter-0": {
+    "value": "0",
+    "type": "letterSpacing"
+  },
+  "paragraph-0": {
+    "value": "0",
+    "type": "paragraphSpacing"
+  },
+  "case-none": {
+    "value": "none",
+    "type": "textCase"
+  },
+  "decoration-none": {
+    "value": "none",
+    "type": "textDecoration"
   }
 }
