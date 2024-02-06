@@ -72,8 +72,8 @@
       }
     }
   },
-  "Brand Font": {
-    "value": "{fontFamilies.noto-sans}",
+  "brand font": {
+    "value": "Noto Sans",
     "type": "fontFamilies"
   },
   "sizing base": {

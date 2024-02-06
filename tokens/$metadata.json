@@ -5,7 +5,8 @@
     "Brand/nylon",
     "System/Color/Light",
     "System/Color/Dark",
-    "System/Typography",
+    "System/Typography/perfect fourth",
+    "System/Typography/major third",
     "System/Whitespace/major third",
     "System/Whitespace/perfect fourth",
     "System/extra"

@@ -5,7 +5,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Brand/nylon": "enabled"
+      "Brand/nylon": "enabled",
+      "System/Typography/perfect fourth": "disabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:517:598",
@@ -27,7 +29,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Brand/fiber": "enabled"
+      "Brand/fiber": "enabled",
+      "System/Typography/perfect fourth": "disabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:517:598",
@@ -48,9 +52,8 @@
     "name": "perfect fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core": "source",
-      "System/Typography": "enabled",
-      "Brand/fiber": "source"
+      "Brand/fiber": "source",
+      "System/Typography/perfect fourth": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:517:609",
     "$figmaModeId": "517:38",
@@ -62,9 +65,10 @@
     "name": "perfect fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core": "source",
       "Brand/fiber": "source",
-      "System/Whitespace/perfect fourth": "enabled"
+      "System/Whitespace/perfect fourth": "enabled",
+      "System/Typography/perfect fourth": "disabled",
+      "System/Typography/major third": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:517:610",
     "$figmaModeId": "517:39",
@@ -93,7 +97,9 @@
     "selectedTokenSets": {
       "Core": "source",
       "System/Color/Light": "enabled",
-      "Brand/fiber": "source"
+      "Brand/fiber": "source",
+      "System/Typography/perfect fourth": "disabled",
+      "System/Typography/major third": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:517:625",
     "$figmaModeId": "517:40",
@@ -122,7 +128,9 @@
     "selectedTokenSets": {
       "Core": "source",
       "System/Color/Dark": "enabled",
-      "Brand/fiber": "source"
+      "Brand/fiber": "source",
+      "System/Typography/perfect fourth": "disabled",
+      "System/Typography/major third": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:517:625",
     "$figmaModeId": "517:41",
@@ -149,9 +157,10 @@
     "name": "major third",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core": "source",
       "Brand/fiber": "source",
-      "System/Whitespace/major third": "enabled"
+      "System/Whitespace/major third": "enabled",
+      "System/Typography/perfect fourth": "disabled",
+      "System/Typography/major third": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:517:610",
     "$figmaModeId": "517:42",
@@ -172,5 +181,15 @@
       "padding.xxlarge": "0cef313f2bf4e0cbe7ee4624838efc6f5937fe51"
     },
     "group": "Spacing"
+  },
+  {
+    "id": "f41dff5a1f5bd2432e178b6911a9327b8a216804",
+    "name": "major third",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Brand/fiber": "source",
+      "System/Typography/major third": "enabled"
+    },
+    "group": "Typography"
   }
 ]
