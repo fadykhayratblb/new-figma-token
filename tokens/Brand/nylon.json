@@ -12,7 +12,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.88",
+            "value": "letter-0.88",
             "space": "lch"
           }
         }
@@ -25,7 +25,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.72",
+            "value": "letter-0.72",
             "space": "hsl"
           }
         }
@@ -38,7 +38,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.24",
+            "value": "letter-0.24",
             "space": "hsl"
           }
         }
@@ -52,7 +52,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.40",
+            "value": "letter-0.40",
             "space": "hsl"
           }
         }
@@ -65,7 +65,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.56",
+            "value": "letter-0.56",
             "space": "hsl"
           }
         }
@@ -73,19 +73,19 @@
     }
   },
   "brand font": {
-    "value": "Monomaniac One",
+    "value": "Roboto",
     "type": "fontFamilies"
   },
-  "Base Sizing": {
-    "value": "{sizing.sizing-16}",
+  "sizing base": {
+    "value": "16",
     "type": "sizing"
   },
-  "Base Padding": {
-    "value": "{padding.padding-16}",
+  "padding base": {
+    "value": "16",
     "type": "spacing"
   },
   "font size base": {
-    "value": "{fontSize.fontSize-32}",
+    "value": "32",
     "type": "fontSizes"
   }
 }

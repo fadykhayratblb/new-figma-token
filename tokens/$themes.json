@@ -17,8 +17,8 @@
       "brand.l24": "14b6fc2bd6b4a889fb4d28fae392621d523c783c",
       "brand.d40": "2e6827a5dc014a9a5f64389f44cbaae607601a59",
       "brand.d56": "2b91848abf6e20db8258d970d4b1f7749e9623ff",
-      "Base Sizing": "cc9e1a16d08ee9793efea0a076070ddc83a0b4e3",
-      "Base Padding": "a327f03ad4395b53d2984ee822db048989839c33"
+      "sizing base": "cc9e1a16d08ee9793efea0a076070ddc83a0b4e3",
+      "padding base": "a327f03ad4395b53d2984ee822db048989839c33"
     }
   },
   {

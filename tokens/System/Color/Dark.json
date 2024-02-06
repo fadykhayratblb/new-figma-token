@@ -17,9 +17,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "hsl",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       }
@@ -31,9 +31,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "hsl",
-            "color": "{brand.0}"
+            "color": "{brand.letter-0}"
           }
         }
       }
@@ -45,9 +45,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "hsl",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       },
@@ -62,9 +62,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "hsl",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       }
@@ -76,9 +76,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "hsl",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       }
@@ -90,9 +90,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "lch",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       },
@@ -121,9 +121,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "lch",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       }
@@ -135,9 +135,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "hsl",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       }
@@ -149,9 +149,9 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.04",
+            "value": "letter-0.04",
             "space": "hsl",
-            "color": "{brand.0} "
+            "color": "{brand.letter-0} "
           }
         }
       }
