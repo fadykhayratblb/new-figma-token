@@ -1,9 +1,9 @@
 {
   "brand": {
     "0": {
-      "value": "#cc5233",
+      "value": "#3ccccc",
       "type": "color",
-      "description": "Source brand: The saturation & luminance of this color should stay between 40~60% to ensure a good and accessibility compliant results"
+      "description": "Source brand: The saturation & luminance of this color should stay between 40~72% to ensure a good and accessibility compliant results"
     },
     "l16": {
       "value": "{brand.0}",
