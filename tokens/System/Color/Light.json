@@ -140,7 +140,7 @@
     }
   },
   "neutral": {
-    "background": {
+    "light": {
       "value": "{black.gray-92}",
       "type": "color",
       "$extensions": {
@@ -168,7 +168,7 @@
         }
       }
     },
-    "text": {
+    "dark": {
       "value": "{black.gray-12}",
       "type": "color",
       "$extensions": {
@@ -178,6 +178,22 @@
             "value": "0.04",
             "space": "hsl",
             "color": "{brand.0} "
+          }
+        }
+      }
+    },
+    "light alter": {
+      "darker": {
+        "value": "{black.gray-72}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "{brand.0} "
+            }
           }
         }
       }
