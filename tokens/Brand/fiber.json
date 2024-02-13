@@ -19,20 +19,6 @@
       },
       "description": "Naming based on lightening value"
     },
-    "l32": {
-      "value": "{brand.0}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.32",
-            "space": "hsl"
-          }
-        }
-      },
-      "description": "Naming based on lightening value"
-    },
     "l64": {
       "value": "{brand.0}",
       "type": "color",
@@ -56,20 +42,6 @@
             "type": "lighten",
             "value": "0.72",
             "space": "hsl"
-          }
-        }
-      },
-      "description": "Naming based on lightening value"
-    },
-    "l80": {
-      "value": "{brand.0}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.80",
-            "space": "lch"
           }
         }
       },

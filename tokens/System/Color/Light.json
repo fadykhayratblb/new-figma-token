@@ -41,6 +41,12 @@
         "value": "{brand.l90}",
         "type": "color"
       }
+    },
+    "dark alter": {
+      "lighter": {
+        "value": "{brand.d16}",
+        "type": "color"
+      }
     }
   },
   "success": {
