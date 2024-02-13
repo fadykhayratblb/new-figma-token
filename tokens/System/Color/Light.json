@@ -10,17 +10,37 @@
     }
   },
   "brand": {
-    "background": {
-      "value": "{brand.l80}",
+    "light": {
+      "value": "{brand.l72}",
       "type": "color"
     },
     "primary": {
       "value": "{brand.0}",
       "type": "color"
     },
-    "text": {
+    "dark": {
       "value": "{brand.d56}",
       "type": "color"
+    },
+    "primary alter": {
+      "darker": {
+        "value": "{brand.d16}",
+        "type": "color"
+      },
+      "lighter": {
+        "value": "{brand.l16}",
+        "type": "color"
+      }
+    },
+    "light alter": {
+      "darker": {
+        "value": "{brand.l64}",
+        "type": "color"
+      },
+      "lighter": {
+        "value": "{brand.l90}",
+        "type": "color"
+      }
     }
   },
   "success": {
@@ -155,6 +175,51 @@
           }
         }
       }
+    }
+  },
+  "danger": {
+    "background": {
+      "value": "{red.l88}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "0.04",
+            "space": "hsl",
+            "color": "{brand.0} "
+          }
+        }
+      }
+    },
+    "primary": {
+      "value": "{red.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "0.04",
+            "space": "hsl",
+            "color": "{brand.0} "
+          }
+        }
+      }
+    },
+    "text": {
+      "value": "{red.d56}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "0.04",
+            "space": "hsl",
+            "color": "{brand.0} "
+          }
+        }
+      },
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
     }
   }
 }

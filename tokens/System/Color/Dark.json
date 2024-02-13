@@ -156,5 +156,50 @@
         }
       }
     }
+  },
+  "danger": {
+    "background": {
+      "value": "{blue.l80}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "0.04",
+            "space": "hsl",
+            "color": "{brand.0} "
+          }
+        }
+      }
+    },
+    "primary": {
+      "value": "{blue.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "0.04",
+            "space": "hsl",
+            "color": "{brand.0} "
+          }
+        }
+      }
+    },
+    "text": {
+      "value": "{blue.d56}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "0.04",
+            "space": "hsl",
+            "color": "{brand.0} "
+          }
+        }
+      },
+      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+    }
   }
 }
