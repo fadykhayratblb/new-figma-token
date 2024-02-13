@@ -3,20 +3,35 @@
     "0": {
       "value": "#2196F3",
       "type": "color",
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      "description": "Core blue"
     },
-    "l88": {
+    "l92": {
       "value": "{blue.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.88",
+            "value": "0.92",
             "space": "lch"
           }
         }
-      }
+      },
+      "description": "Naming based on lightening value"
+    },
+    "l80": {
+      "value": "{blue.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.80",
+            "space": "lch"
+          }
+        }
+      },
+      "description": "Naming based on lightening value"
     },
     "l72": {
       "value": "{blue.0}",
@@ -29,7 +44,8 @@
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on lightening value"
     },
     "l24": {
       "value": "{blue.0}",
@@ -43,20 +59,21 @@
           }
         }
       },
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      "description": "Naming based on lightening value"
     },
-    "d40": {
+    "d32": {
       "value": "{blue.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.40",
+            "value": "0.32",
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on darkening value"
     },
     "d56": {
       "value": "{blue.0}",
@@ -69,7 +86,8 @@
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on darkening value"
     }
   },
   "black": {

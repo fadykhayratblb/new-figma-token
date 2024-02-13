@@ -11,7 +11,7 @@
   },
   "info": {
     "background": {
-      "value": "{blue.d40}",
+      "value": "{blue.d32}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -101,11 +101,11 @@
   },
   "brand": {
     "background": {
-      "value": "{brand.d40}",
+      "value": "{brand.d32}",
       "type": "color"
     },
     "primary": {
-      "value": "{brand.l24}",
+      "value": "{brand.l32}",
       "type": "color"
     },
     "text": {

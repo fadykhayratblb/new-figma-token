@@ -11,7 +11,7 @@
   },
   "brand": {
     "background": {
-      "value": "{brand.l88}",
+      "value": "{brand.l80}",
       "type": "color"
     },
     "primary": {
@@ -70,7 +70,7 @@
   },
   "info": {
     "background": {
-      "value": "{blue.l88}",
+      "value": "{blue.l80}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {

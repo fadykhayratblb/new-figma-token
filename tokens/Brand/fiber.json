@@ -1,22 +1,51 @@
 {
   "brand": {
     "0": {
-      "value": "#ff7f33",
+      "value": "#cc5233",
       "type": "color",
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      "description": "Source brand: The saturation & luminance of this color should stay between 40~60% to ensure a good and accessibility compliant results"
     },
-    "l88": {
+    "l16": {
       "value": "{brand.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.88",
+            "value": "0.16",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "Naming based on lightening value"
+    },
+    "l32": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.32",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "Naming based on lightening value"
+    },
+    "l64": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.64",
             "space": "lch"
           }
         }
-      }
+      },
+      "description": "Naming based on lightening value"
     },
     "l72": {
       "value": "{brand.0}",
@@ -29,34 +58,64 @@
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on lightening value"
     },
-    "l24": {
+    "l80": {
       "value": "{brand.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.24",
-            "space": "hsl"
+            "value": "0.80",
+            "space": "lch"
           }
         }
       },
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      "description": "Naming based on lightening value"
     },
-    "d40": {
+    "l90": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.90",
+            "space": "lch"
+          }
+        }
+      },
+      "description": "Naming based on lightening value"
+    },
+    "d16": {
       "value": "{brand.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.40",
+            "value": "0.16",
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on darkening value"
+    },
+    "d32": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.32",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "Naming based on darkening value"
     },
     "d56": {
       "value": "{brand.0}",
@@ -69,7 +128,8 @@
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on darkening value"
     }
   },
   "brand font": {
