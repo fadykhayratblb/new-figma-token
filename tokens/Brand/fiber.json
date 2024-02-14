@@ -1,7 +1,43 @@
 {
+  "lineheight": {
+    "100": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "130": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
+    "140": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "150": {
+      "value": "150%",
+      "type": "lineHeights"
+    }
+  },
+  "fontweight": {
+    "400": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "600": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "700",
+      "type": "fontWeights"
+    }
+  },
   "brand": {
     "0": {
-      "value": "#e64219",
+      "value": "#1969e6",
       "type": "color",
       "description": "Source brand: The saturation & luminance of this color should stay between 40~72% to ensure a good and accessibility compliant results"
     },
@@ -109,7 +145,7 @@
     "type": "fontFamilies"
   },
   "sizing base": {
-    "value": "20",
+    "value": "64",
     "type": "sizing"
   },
   "padding base": {
@@ -119,5 +155,59 @@
   "font size base": {
     "value": "16",
     "type": "fontSizes"
+  },
+  "letterspacing": {
+    "0": {
+      "value": "0",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphspacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  },
+  "textcase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "decoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "fontsize": {
+    "xxsmall": {
+      "value": "{fontsize.xsmall} / 1.333",
+      "type": "fontSizes"
+    },
+    "xsmall": {
+      "value": "{fontsize.small} / 1.333",
+      "type": "fontSizes"
+    },
+    "small": {
+      "value": "{font size base}",
+      "type": "fontSizes"
+    },
+    "medium": {
+      "value": "{fontsize.small} * 1.333",
+      "type": "fontSizes"
+    },
+    "large": {
+      "value": "{fontsize.medium} * 1.333",
+      "type": "fontSizes"
+    },
+    "xlarge": {
+      "value": "{fontsize.large} * 1.333",
+      "type": "fontSizes"
+    },
+    "xxlarge": {
+      "value": "{fontsize.xlarge} * 1.333",
+      "type": "fontSizes"
+    }
   }
 }

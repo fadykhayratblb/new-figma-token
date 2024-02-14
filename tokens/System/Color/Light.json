@@ -1,190 +1,148 @@
 {
-  "absolute": {
-    "light": {
-      "value": "{black.gray-100}",
-      "type": "color"
-    },
-    "dark": {
-      "value": "{black.black}",
-      "type": "color"
-    }
-  },
-  "brand": {
-    "light": {
-      "value": "{brand.l72}",
-      "type": "color"
-    },
-    "primary": {
-      "value": "{brand.0}",
-      "type": "color"
-    },
-    "dark": {
-      "value": "{brand.d56}",
-      "type": "color"
-    },
-    "primary alter": {
-      "darker": {
-        "value": "{brand.d16}",
+  "colors": {
+    "absolute": {
+      "light": {
+        "value": "{black.gray-100}",
         "type": "color"
       },
-      "lighter": {
-        "value": "{brand.l16}",
+      "dark": {
+        "value": "{black.black}",
         "type": "color"
       }
     },
-    "light alter": {
-      "darker": {
-        "value": "{brand.l64}",
+    "brand": {
+      "light": {
+        "value": "{brand.l72}",
         "type": "color"
       },
-      "lighter": {
-        "value": "{brand.l90}",
+      "primary": {
+        "value": "{brand.0}",
         "type": "color"
-      }
-    },
-    "dark alter": {
-      "lighter": {
-        "value": "{brand.d16}",
+      },
+      "dark": {
+        "value": "{brand.d56}",
         "type": "color"
-      }
-    }
-  },
-  "success": {
-    "background": {
-      "value": "{green.l88}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
-          }
+      },
+      "primary alter": {
+        "darker": {
+          "value": "{brand.d16}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{brand.l16}",
+          "type": "color"
+        }
+      },
+      "light alter": {
+        "darker": {
+          "value": "{brand.l64}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{brand.l90}",
+          "type": "color"
+        }
+      },
+      "dark alter": {
+        "lighter": {
+          "value": "{brand.d16}",
+          "type": "color"
         }
       }
     },
-    "primary": {
-      "value": "{green.0}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
-          }
-        }
-      }
-    },
-    "text": {
-      "value": "{green.d56}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "lch",
-            "color": "{brand.0}"
+    "success": {
+      "background": {
+        "value": "{green.l88}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
           }
         }
       },
-      "description": "Naming Depends on HSl ( L ) nummber\n"
-    }
-  },
-  "info": {
-    "background": {
-      "value": "{blue.l80}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
-          }
-        }
-      }
-    },
-    "primary": {
-      "value": "{blue.0}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
-          }
-        }
-      }
-    },
-    "text": {
-      "value": "{blue.d56}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
+      "primary": {
+        "value": "{green.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
           }
         }
       },
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
-    }
-  },
-  "neutral": {
-    "light": {
-      "value": "{black.gray-92}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "lch",
-            "color": "{brand.0} "
+      "text": {
+        "value": "{green.d56}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "lch",
+              "color": "{brand.0}"
+            }
           }
-        }
+        },
+        "description": "Naming Depends on HSl ( L ) nummber\n"
       }
     },
-    "primary": {
-      "value": "{black.gray-44}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
+    "info": {
+      "background": {
+        "value": "{blue.l80}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
           }
         }
-      }
-    },
-    "dark": {
-      "value": "{black.gray-12}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
+      },
+      "primary": {
+        "value": "{blue.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
           }
         }
+      },
+      "text": {
+        "value": "{blue.d56}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n"
       }
     },
-    "light alter": {
-      "darker": {
-        "value": "{black.gray-72}",
+    "neutral": {
+      "light": {
+        "value": "{black.gray-92}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -196,52 +154,96 @@
             }
           }
         }
-      }
-    }
-  },
-  "danger": {
-    "background": {
-      "value": "{red.l88}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
-          }
-        }
-      }
-    },
-    "primary": {
-      "value": "{red.0}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
-          }
-        }
-      }
-    },
-    "text": {
-      "value": "{red.d56}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "mix",
-            "value": "0.04",
-            "space": "hsl",
-            "color": "{brand.0} "
+      },
+      "primary": {
+        "value": "{black.gray-44}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
           }
         }
       },
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      "dark": {
+        "value": "{black.gray-12}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
+          }
+        }
+      },
+      "light alter": {
+        "darker": {
+          "value": "{black.gray-72}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "0.04",
+                "space": "lch",
+                "color": "{brand.0} "
+              }
+            }
+          }
+        }
+      }
+    },
+    "danger": {
+      "background": {
+        "value": "{red.l88}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
+          }
+        }
+      },
+      "primary": {
+        "value": "{red.0}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
+          }
+        }
+      },
+      "text": {
+        "value": "{red.d56}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.04",
+              "space": "hsl",
+              "color": "{brand.0} "
+            }
+          }
+        },
+        "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      }
     }
   }
 }

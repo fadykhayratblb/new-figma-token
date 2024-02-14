@@ -1,22 +1,73 @@
 {
+  "lineheight": {
+    "100": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "130": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
+    "140": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "150": {
+      "value": "150%",
+      "type": "lineHeights"
+    }
+  },
+  "fontweight": {
+    "400": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "600": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "700",
+      "type": "fontWeights"
+    }
+  },
   "brand": {
     "0": {
-      "value": "#3477ff",
+      "value": "#e65419",
       "type": "color",
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      "description": "Source brand: The saturation & luminance of this color should stay between 40~72% to ensure a good and accessibility compliant results"
     },
-    "l88": {
+    "l16": {
       "value": "{brand.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.88",
+            "value": "0.16",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "Naming based on lightening value"
+    },
+    "l64": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.64",
             "space": "lch"
           }
         }
-      }
+      },
+      "description": "Naming based on lightening value"
     },
     "l72": {
       "value": "{brand.0}",
@@ -29,34 +80,50 @@
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on lightening value"
     },
-    "l24": {
+    "l90": {
       "value": "{brand.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.24",
-            "space": "hsl"
+            "value": "0.90",
+            "space": "lch"
           }
         }
       },
-      "description": "\nNaming Depends on HSl ( L ) nummber\n"
+      "description": "Naming based on lightening value"
     },
-    "d40": {
+    "d16": {
       "value": "{brand.0}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.40",
+            "value": "0.16",
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on darkening value"
+    },
+    "d32": {
+      "value": "{brand.0}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.32",
+            "space": "hsl"
+          }
+        }
+      },
+      "description": "Naming based on darkening value"
     },
     "d56": {
       "value": "{brand.0}",
@@ -69,23 +136,78 @@
             "space": "hsl"
           }
         }
-      }
+      },
+      "description": "Naming based on darkening value"
     }
   },
   "brand font": {
-    "value": "Roboto",
+    "value": "Noto Sans",
     "type": "fontFamilies"
   },
   "sizing base": {
-    "value": "24",
+    "value": "64",
     "type": "sizing"
   },
   "padding base": {
-    "value": "64",
+    "value": "8",
     "type": "spacing"
   },
   "font size base": {
-    "value": "32",
+    "value": "16",
     "type": "fontSizes"
+  },
+  "letterspacing": {
+    "0": {
+      "value": "0",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphspacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  },
+  "textcase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "decoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "fontsize": {
+    "xxsmall": {
+      "value": "{fontsize.xsmall} / 1.333",
+      "type": "fontSizes"
+    },
+    "xsmall": {
+      "value": "{fontsize.small} / 1.333",
+      "type": "fontSizes"
+    },
+    "small": {
+      "value": "{font size base}",
+      "type": "fontSizes"
+    },
+    "medium": {
+      "value": "{fontsize.small} * 1.333",
+      "type": "fontSizes"
+    },
+    "large": {
+      "value": "{fontsize.medium} * 1.333",
+      "type": "fontSizes"
+    },
+    "xlarge": {
+      "value": "{fontsize.large} * 1.333",
+      "type": "fontSizes"
+    },
+    "xxlarge": {
+      "value": "{fontsize.xlarge} * 1.333",
+      "type": "fontSizes"
+    }
   }
 }
