@@ -27,7 +27,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.64",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -55,7 +55,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.90",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -126,7 +126,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.44",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       }
@@ -268,7 +268,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.64",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -296,7 +296,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.90",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -373,7 +373,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.64",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -401,7 +401,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.90",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -478,7 +478,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.64",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -506,7 +506,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.90",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -583,7 +583,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.64",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },
@@ -611,7 +611,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.90",
-            "space": "lch"
+            "space": "hsl"
           }
         }
       },

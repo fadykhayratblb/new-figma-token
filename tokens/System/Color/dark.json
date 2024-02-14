@@ -81,7 +81,7 @@
             "modify": {
               "type": "mix",
               "value": "0.04",
-              "space": "lch",
+              "space": "hsl",
               "color": "{brand.0}"
             }
           }
@@ -201,7 +201,7 @@
             "modify": {
               "type": "mix",
               "value": "0.04",
-              "space": "lch",
+              "space": "hsl",
               "color": "{brand.0} "
             }
           }
@@ -243,7 +243,7 @@
             "modify": {
               "type": "mix",
               "value": "0.04",
-              "space": "lch",
+              "space": "hsl",
               "color": "{brand.0} "
             }
           }
