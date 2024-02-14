@@ -145,15 +145,15 @@
     "type": "fontFamilies"
   },
   "sizing base": {
-    "value": "64",
+    "value": "128",
     "type": "sizing"
   },
   "padding base": {
-    "value": "8",
+    "value": "24",
     "type": "spacing"
   },
   "font size base": {
-    "value": "16",
+    "value": "24",
     "type": "fontSizes"
   },
   "letterspacing": {
