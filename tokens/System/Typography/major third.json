@@ -112,7 +112,7 @@
       "Label": {
         "value": {
           "fontFamily": "{brand font}",
-          "fontWeight": "{fontweight.500}",
+          "fontWeight": "{fontweight.600}",
           "fontSize": "{fontsize.xsmall}",
           "lineHeight": "{lineheight.140}",
           "letterSpacing": "{letterspacing.0}",
@@ -125,7 +125,7 @@
       "Helper": {
         "value": {
           "fontFamily": "{brand font}",
-          "fontWeight": "{fontweight.400}",
+          "fontWeight": "{fontweight.500}",
           "fontSize": "{fontsize.xsmall}",
           "lineHeight": "{lineheight.140}",
           "letterSpacing": "{letterspacing.0}",
