@@ -71,13 +71,13 @@
       "Regular": {
         "value": {
           "fontFamily": "{brand font}",
-          "fontWeight": "{fontweight.400}",
           "fontSize": "{fontsize.small}",
           "lineHeight": "{lineheight.140}",
           "letterSpacing": "{letterspacing.0}",
           "paragraphSpacing": "{paragraphspacing.0}",
           "textDecoration": "{decoration.none}",
-          "textCase": "{textcase.none}"
+          "textCase": "{textcase.none}",
+          "fontWeight": "{fontweight.400}"
         },
         "type": "typography"
       },

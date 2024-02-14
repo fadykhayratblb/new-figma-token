@@ -2,11 +2,11 @@
   "colors": {
     "absolute": {
       "light": {
-        "value": "{black.gray-100}",
+        "value": "{black.black}",
         "type": "color"
       },
       "dark": {
-        "value": "{black.black}",
+        "value": "{black.gray-100}",
         "type": "color"
       }
     },
