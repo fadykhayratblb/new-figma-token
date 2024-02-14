@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
-      "Brand/fiber": "enabled"
+      "Brand/fiber": "enabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Brand"
   },
@@ -15,7 +16,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
-      "Brand/nylon": "enabled"
+      "Brand/nylon": "enabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Brand"
   },
@@ -25,7 +27,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
-      "System/Color/Light": "enabled"
+      "System/Color/Light": "enabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Color"
   },
@@ -35,7 +38,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
-      "System/Color/Dark": "enabled"
+      "System/Color/Dark": "enabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Color"
   },
@@ -44,7 +48,8 @@
     "name": "perfect-fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "System/Typography/perfect fourth": "enabled"
+      "System/Typography/perfect fourth": "enabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Typography"
   },
@@ -62,7 +67,8 @@
     "name": "perfect fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "System/Whitespace/perfect fourth": "enabled"
+      "System/Whitespace/perfect fourth": "enabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Spacing"
   },
@@ -71,7 +77,8 @@
     "name": "major third",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "System/Whitespace/major third": "enabled"
+      "System/Whitespace/major third": "enabled",
+      "System/Typography/major third": "disabled"
     },
     "group": "Spacing"
   }

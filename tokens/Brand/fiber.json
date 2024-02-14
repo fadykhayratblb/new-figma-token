@@ -37,7 +37,7 @@
   },
   "brand": {
     "0": {
-      "value": "#1680bd",
+      "value": "#db24c3",
       "type": "color",
       "description": "Source brand: The saturation & luminance of this color should stay between 40~72% to ensure a good and accessibility compliant results"
     },
@@ -178,36 +178,6 @@
     "none": {
       "value": "none",
       "type": "textDecoration"
-    }
-  },
-  "fontsize": {
-    "xxsmall": {
-      "value": "{fontsize.xsmall} / 1.333",
-      "type": "fontSizes"
-    },
-    "xsmall": {
-      "value": "{fontsize.small} / 1.333",
-      "type": "fontSizes"
-    },
-    "small": {
-      "value": "{font size base}",
-      "type": "fontSizes"
-    },
-    "medium": {
-      "value": "{fontsize.small} * 1.333",
-      "type": "fontSizes"
-    },
-    "large": {
-      "value": "{fontsize.medium} * 1.333",
-      "type": "fontSizes"
-    },
-    "xlarge": {
-      "value": "{fontsize.large} * 1.333",
-      "type": "fontSizes"
-    },
-    "xxlarge": {
-      "value": "{fontsize.xlarge} * 1.333",
-      "type": "fontSizes"
     }
   }
 }
