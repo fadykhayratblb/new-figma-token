@@ -1,6 +1,22 @@
 {
   "size": {
-    "xxsmall": {
+    "6xsmall": {
+      "value": "{size.5xsmall} / 1.333",
+      "type": "sizing"
+    },
+    "5xsmall": {
+      "value": "{size.4xsmall} / 1.333",
+      "type": "sizing"
+    },
+    "4xsmall": {
+      "value": "{size.3xsmall} / 1.333",
+      "type": "sizing"
+    },
+    "3xsmall": {
+      "value": "{size.2xsmall} / 1.333",
+      "type": "sizing"
+    },
+    "2xsmall": {
       "value": "{size.xsmall} / 1.333",
       "type": "sizing"
     },
@@ -24,8 +40,24 @@
       "value": "{size.large} * 1.333",
       "type": "sizing"
     },
-    "xxlarge": {
+    "2xlarge": {
       "value": "{size.xlarge} * 1.333",
+      "type": "sizing"
+    },
+    "3xlarge": {
+      "value": "{size.2xlarge} * 1.333",
+      "type": "sizing"
+    },
+    "4xlarge": {
+      "value": "{size.3xlarge} * 1.333",
+      "type": "sizing"
+    },
+    "5xlarge": {
+      "value": "{size.4xlarge} * 1.333",
+      "type": "sizing"
+    },
+    "6xlarge": {
+      "value": "{size.5xlarge} * 1.333",
       "type": "sizing"
     }
   },

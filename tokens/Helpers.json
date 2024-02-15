@@ -696,19 +696,5 @@
       "type": "composition",
       "description": "sm (640px)"
     }
-  },
-  "fontweight": {
-    "400": {
-      "value": "400",
-      "type": "fontWeights"
-    },
-    "500": {
-      "value": "500",
-      "type": "fontWeights"
-    },
-    "600": {
-      "value": "600",
-      "type": "fontWeights"
-    }
   }
 }

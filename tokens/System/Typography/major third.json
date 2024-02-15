@@ -166,5 +166,19 @@
       "value": "{fontsize.xlarge} * 1.333",
       "type": "fontSizes"
     }
+  },
+  "fontweight": {
+    "400": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "600": {
+      "value": "600",
+      "type": "fontWeights"
+    }
   }
 }
