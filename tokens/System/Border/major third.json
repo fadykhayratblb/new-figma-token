@@ -1,0 +1,42 @@
+{
+  "borderradius": {
+    "none": {
+      "value": "{borderradius.small} / 1.333",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{borderradius.medium} / 1.333",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "{radiusbase}",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "{borderradius.medium} * 1.333",
+      "type": "borderRadius"
+    },
+    "xlarge": {
+      "value": "{borderradius.large} * 1.333",
+      "type": "borderRadius"
+    },
+    "full": {
+      "value": "{borderradius.medium} * 100",
+      "type": "borderRadius"
+    }
+  },
+  "borderwidth": {
+    "small": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "medium": {
+      "value": "2",
+      "type": "borderWidth"
+    },
+    "large": {
+      "value": "4",
+      "type": "borderWidth"
+    }
+  }
+}

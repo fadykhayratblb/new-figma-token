@@ -9,6 +9,7 @@
     "System/Typography/major third",
     "System/Whitespace/major third",
     "System/Whitespace/perfect fourth",
-    "System/extra"
+    "System/Border/perfect fourth",
+    "System/Border/major third"
   ]
 }
