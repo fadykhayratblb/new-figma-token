@@ -4,7 +4,7 @@
     "name": "Fiber",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/fiber": "enabled"
+      "Brand/ads": "enabled"
     },
     "group": "Brand"
   },
@@ -13,7 +13,7 @@
     "name": "Nylon",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/nylon": "enabled"
+      "Brand/mylo": "enabled"
     },
     "group": "Brand"
   },
@@ -23,7 +23,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
-      "System/Color/light": "enabled"
+      "Fiber/Color/light": "enabled"
     },
     "group": "Color"
   },
@@ -33,7 +33,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
-      "System/Color/dark": "enabled"
+      "Fiber/Color/dark": "enabled"
     },
     "group": "Color"
   },
@@ -42,7 +42,7 @@
     "name": "perfect-fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "System/Typography/perfect fourth": "enabled"
+      "Fiber/Typography/perfect fourth": "enabled"
     },
     "group": "Typography"
   },
@@ -51,7 +51,7 @@
     "name": "perfect fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "System/Whitespace/perfect fourth": "enabled"
+      "Fiber/Whitespace/perfect fourth": "enabled"
     },
     "group": "Spacing"
   },
@@ -60,8 +60,17 @@
     "name": "perfect fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "System/Border/perfect fourth": "enabled"
+      "Fiber/Border/perfect fourth": "enabled"
     },
     "group": "Border"
+  },
+  {
+    "id": "ddc8ecc26b7f21a8425a746dbaef6a3fad2be9b0",
+    "name": "major third",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Fiber/Typography/major third": "enabled"
+    },
+    "group": "Typography"
   }
 ]

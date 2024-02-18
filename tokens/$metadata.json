@@ -1,15 +1,15 @@
 {
   "tokenSetOrder": [
     "Helpers",
-    "Brand/fiber",
-    "Brand/nylon",
-    "System/Color/light",
-    "System/Color/dark",
-    "System/Typography/perfect fourth",
-    "System/Typography/major third",
-    "System/Whitespace/major third",
-    "System/Whitespace/perfect fourth",
-    "System/Border/perfect fourth",
-    "System/Border/major third"
+    "Brand/ads",
+    "Brand/mylo",
+    "Fiber/Color/light",
+    "Fiber/Color/dark",
+    "Fiber/Typography/perfect fourth",
+    "Fiber/Typography/major third",
+    "Fiber/Whitespace/major third",
+    "Fiber/Whitespace/perfect fourth",
+    "Fiber/Border/perfect fourth",
+    "Fiber/Border/major third"
   ]
 }
