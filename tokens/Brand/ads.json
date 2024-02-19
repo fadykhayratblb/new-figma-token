@@ -18,13 +18,13 @@
     }
   },
   "brand": {
-    "0": {
-      "value": "#db24c3",
+    "source": {
+      "value": "#E74018",
       "type": "color",
       "description": "Source brand: The saturation & luminance of this color should stay between 40~72% to ensure a good and accessibility compliant results"
     },
     "l16": {
-      "value": "{brand.0}",
+      "value": "{brand.source}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -38,7 +38,7 @@
       "description": "Naming based on lightening value"
     },
     "l64": {
-      "value": "{brand.0}",
+      "value": "{brand.source}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -52,7 +52,7 @@
       "description": "Naming based on lightening value"
     },
     "l72": {
-      "value": "{brand.0}",
+      "value": "{brand.source}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -66,7 +66,7 @@
       "description": "Naming based on lightening value"
     },
     "l90": {
-      "value": "{brand.0}",
+      "value": "{brand.source}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -80,7 +80,7 @@
       "description": "Naming based on lightening value"
     },
     "d16": {
-      "value": "{brand.0}",
+      "value": "{brand.source}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -94,7 +94,7 @@
       "description": "Naming based on darkening value"
     },
     "d32": {
-      "value": "{brand.0}",
+      "value": "{brand.source}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -108,7 +108,7 @@
       "description": "Naming based on darkening value"
     },
     "d56": {
-      "value": "{brand.0}",
+      "value": "{brand.source}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
