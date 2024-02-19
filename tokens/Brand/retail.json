@@ -19,7 +19,7 @@
   },
   "brand": {
     "source": {
-      "value": "#0E001A",
+      "value": "#653d8f",
       "type": "color",
       "description": "Source brand: The saturation & luminance of this color should stay between 40~72% to ensure a good and accessibility compliant results"
     },
@@ -131,11 +131,11 @@
     "type": "sizing"
   },
   "padding base": {
-    "value": "24",
+    "value": "10",
     "type": "spacing"
   },
   "font size base": {
-    "value": "32",
+    "value": "16",
     "type": "fontSizes"
   },
   "letterspacing": {
@@ -163,7 +163,7 @@
     }
   },
   "radiusbase": {
-    "value": "16",
+    "value": "8",
     "type": "borderRadius"
   }
 }

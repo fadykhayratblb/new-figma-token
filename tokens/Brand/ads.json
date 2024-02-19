@@ -19,7 +19,7 @@
   },
   "brand": {
     "source": {
-      "value": "#E74018",
+      "value": "#db4824",
       "type": "color",
       "description": "Source brand: The saturation & luminance of this color should stay between 40~72% to ensure a good and accessibility compliant results"
     },
