@@ -1,7 +1,7 @@
 [
   {
     "id": "d514c1f8f9a1f12d30c304dde8d2d386f10aa21f",
-    "name": "Fiber",
+    "name": "ads",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Brand/ads": "enabled"
@@ -10,7 +10,7 @@
   },
   {
     "id": "ec76f681f058a5eb130112a5e34181559c2004c5",
-    "name": "Nylon",
+    "name": "mylo",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Brand/mylo": "enabled"
@@ -19,7 +19,7 @@
   },
   {
     "id": "54ed3261bd498d7e2489f1cb364349a1806f1b78",
-    "name": "Light",
+    "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
@@ -29,7 +29,7 @@
   },
   {
     "id": "c420649b38322338b56a36ae03697732c314c1f2",
-    "name": "Dark",
+    "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Helpers": "source",
@@ -72,5 +72,14 @@
       "Fiber/Typography/major third": "enabled"
     },
     "group": "Typography"
+  },
+  {
+    "id": "a2fcdd9adaa1831dc86f44b77bb689177fd19cee",
+    "name": "retail",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Brand/retail": "enabled"
+    },
+    "group": "Brand"
   }
 ]

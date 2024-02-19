@@ -1,5 +1,13 @@
 {
   "size": {
+    "8xsmall": {
+      "value": "{size.7xsmall} / 1.333",
+      "type": "sizing"
+    },
+    "7xsmall": {
+      "value": "{size.6xsmall} / 1.333",
+      "type": "sizing"
+    },
     "6xsmall": {
       "value": "{size.5xsmall} / 1.333",
       "type": "sizing"

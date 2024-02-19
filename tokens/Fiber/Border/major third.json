@@ -1,6 +1,18 @@
 {
   "borderradius": {
     "none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "3xsmall": {
+      "value": "{borderradius.2xsmall} / 1.333",
+      "type": "borderRadius"
+    },
+    "2xsmall": {
+      "value": "{borderradius.xsmall} / 1.333",
+      "type": "borderRadius"
+    },
+    "xsmall": {
       "value": "{borderradius.small} / 1.333",
       "type": "borderRadius"
     },

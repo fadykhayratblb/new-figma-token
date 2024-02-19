@@ -10,7 +10,7 @@
         "type": "color"
       }
     },
-    "brand": {
+    "primary": {
       "l0": {
         "value": "{brand.source}",
         "type": "color"
