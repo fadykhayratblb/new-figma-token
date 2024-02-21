@@ -5,133 +5,41 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/ads": "enabled",
-      "brand/mylo": "disabled",
-      "brand/retail": "disabled",
-      "fiber/color/light": "disabled",
-      "fiber/color/dark": "disabled",
-      "fiber/typography/perfect fourth": "disabled",
-      "fiber/typography/major third": "disabled",
-      "fiber/whitespace/major third": "disabled",
-      "fiber/whitespace/perfect fourth": "disabled",
-      "fiber/border/perfect fourth": "disabled",
-      "fiber/border/major third": "disabled"
+      "helpers": "disabled"
     },
-    "group": "Brand"
-  },
-  {
-    "id": "ec76f681f058a5eb130112a5e34181559c2004c5",
-    "name": "mylo",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/ads": "disabled",
-      "brand/mylo": "enabled",
-      "brand/retail": "disabled",
-      "fiber/color/light": "disabled",
-      "fiber/color/dark": "disabled",
-      "fiber/typography/perfect fourth": "disabled",
-      "fiber/typography/major third": "disabled",
-      "fiber/whitespace/major third": "disabled",
-      "fiber/whitespace/perfect fourth": "disabled",
-      "fiber/border/perfect fourth": "disabled",
-      "fiber/border/major third": "disabled"
-    },
-    "group": "Brand"
+    "group": "brand"
   },
   {
     "id": "54ed3261bd498d7e2489f1cb364349a1806f1b78",
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Helpers": "source",
-      "brand/ads": "disabled",
-      "brand/mylo": "disabled",
-      "brand/retail": "disabled",
       "fiber/color/light": "enabled",
-      "fiber/color/dark": "disabled",
-      "fiber/typography/perfect fourth": "disabled",
-      "fiber/typography/major third": "disabled",
-      "fiber/whitespace/major third": "disabled",
-      "fiber/whitespace/perfect fourth": "disabled",
-      "fiber/border/perfect fourth": "disabled",
-      "fiber/border/major third": "disabled"
+      "helpers": "source"
     },
-    "group": "Color"
+    "group": "color"
   },
   {
     "id": "c420649b38322338b56a36ae03697732c314c1f2",
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Helpers": "source",
-      "brand/ads": "disabled",
-      "brand/mylo": "disabled",
-      "brand/retail": "disabled",
-      "fiber/color/light": "disabled",
       "fiber/color/dark": "enabled",
-      "fiber/typography/perfect fourth": "disabled",
-      "fiber/typography/major third": "disabled",
-      "fiber/whitespace/major third": "disabled",
-      "fiber/whitespace/perfect fourth": "disabled",
-      "fiber/border/perfect fourth": "disabled",
-      "fiber/border/major third": "disabled"
+      "helpers": "source"
     },
-    "group": "Color"
+    "group": "color"
   },
   {
     "id": "38059a3fe06d8f43c2b4b59169aee5f1d055c6ce",
     "name": "perfect-fourth",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/ads": "disabled",
-      "brand/mylo": "disabled",
-      "brand/retail": "disabled",
-      "fiber/color/light": "disabled",
-      "fiber/color/dark": "disabled",
       "fiber/typography/perfect fourth": "enabled",
-      "fiber/typography/major third": "disabled",
-      "fiber/whitespace/major third": "disabled",
       "fiber/whitespace/perfect fourth": "enabled",
       "fiber/border/perfect fourth": "enabled",
-      "fiber/border/major third": "disabled"
+      "brand/ads": "source",
+      "helpers": "disabled"
     },
-    "group": "Scale"
-  },
-  {
-    "id": "ddc8ecc26b7f21a8425a746dbaef6a3fad2be9b0",
-    "name": "major third",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/ads": "disabled",
-      "brand/mylo": "disabled",
-      "brand/retail": "disabled",
-      "fiber/color/light": "disabled",
-      "fiber/color/dark": "disabled",
-      "fiber/typography/perfect fourth": "disabled",
-      "fiber/typography/major third": "enabled",
-      "fiber/whitespace/major third": "enabled",
-      "fiber/whitespace/perfect fourth": "disabled",
-      "fiber/border/perfect fourth": "disabled",
-      "fiber/border/major third": "enabled"
-    },
-    "group": "Scale"
-  },
-  {
-    "id": "a2fcdd9adaa1831dc86f44b77bb689177fd19cee",
-    "name": "retail",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/ads": "disabled",
-      "brand/mylo": "disabled",
-      "brand/retail": "enabled",
-      "fiber/color/light": "disabled",
-      "fiber/color/dark": "disabled",
-      "fiber/typography/perfect fourth": "disabled",
-      "fiber/typography/major third": "disabled",
-      "fiber/whitespace/major third": "disabled",
-      "fiber/whitespace/perfect fourth": "disabled",
-      "fiber/border/perfect fourth": "disabled",
-      "fiber/border/major third": "disabled"
-    },
-    "group": "Brand"
+    "group": "scale"
   }
 ]
