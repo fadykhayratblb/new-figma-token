@@ -1,16 +1,16 @@
 {
   "tokenSetOrder": [
     "Helpers",
-    "Brand/ads",
-    "Brand/mylo",
-    "Brand/retail",
-    "Fiber/Color/light",
-    "Fiber/Color/dark",
-    "Fiber/Typography/perfect fourth",
-    "Fiber/Typography/major third",
-    "Fiber/Whitespace/major third",
-    "Fiber/Whitespace/perfect fourth",
-    "Fiber/Border/perfect fourth",
-    "Fiber/Border/major third"
+    "brand/ads",
+    "brand/mylo",
+    "brand/retail",
+    "fiber/color/light",
+    "fiber/color/dark",
+    "fiber/typography/perfect fourth",
+    "fiber/typography/major third",
+    "fiber/whitespace/major third",
+    "fiber/whitespace/perfect fourth",
+    "fiber/border/perfect fourth",
+    "fiber/border/major third"
   ]
 }
